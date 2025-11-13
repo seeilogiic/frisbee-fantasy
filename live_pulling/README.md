@@ -8,33 +8,19 @@ Automated script to pull player statistics from UltiAnalytics team websites and 
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run script: `python pull_data.py`
 
-## Google Sheets Integration
-
-This script writes data directly to Google Sheets (no CSV files created).
-
-### Setup Required
-
-1. **Create Google Cloud Service Account** (see `GOOGLE_SHEETS_SETUP.md` for detailed instructions)
-2. **Share your Google Sheet** with the service account email
-3. **Configure GitHub Secrets**:
-   - `GOOGLE_SHEET_ID`: Your Google Sheet ID
-   - `GOOGLE_SHEET_NAME`: Worksheet name (default: "Sheet1")
-   - `GOOGLE_CREDENTIALS_JSON`: Service account JSON credentials
-
-See `GOOGLE_SHEETS_SETUP.md` for complete setup instructions.
-
 ## GitHub Actions
 
 This script is configured to run manually via GitHub Actions:
 
 - **Manual Trigger**: Run from the GitHub Actions tab → "Pull Player Data" → "Run workflow"
-- **Direct to Sheets**: Writes data directly to Google Sheets (no CSV files)
+- **Output**: Creates timestamped CSV files in the `live_pulling/` directory
 
 ### Workflow Features
 
-- Downloads CSV data directly into memory (no disk writes)
+- Downloads CSV data directly into memory (no disk writes for downloads)
 - Processes and filters for tournaments containing "cow" (Cowbell, etc.)
-- Writes data directly to Google Sheets
+- Generates timestamped CSV files with processed player data
+- Automatically commits and pushes CSV files to the repository
 - Fully automated - no manual steps required
 
 ### How to Run
@@ -46,11 +32,11 @@ This script is configured to run manually via GitHub Actions:
 5. Select the branch (usually `main` or `master`)
 6. Click the green "Run workflow" button
 
-The workflow will run and automatically update your Google Sheet with the latest player data.
+The workflow will run and automatically create a new CSV file with the latest player data, then commit and push it to the repository.
 
 ## Output
 
-The script writes data directly to your configured Google Sheet with the following columns:
+The script generates timestamped CSV files (e.g., `Players_20250101-120000.csv`) in the `live_pulling/` directory with the following columns:
 
 - Team name
 - Player name
