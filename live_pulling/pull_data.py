@@ -359,17 +359,26 @@ def main():
     players_dict = process_csv_data_in_memory(csv_data_dict)
     
     if not players_dict:
-        print("\nError: No player data found after processing files")
-        return 1
+        print(f"\n⚠ Warning: No player data found after processing files")
+        print(f"  This may mean no teams have tournaments containing '{TOURNAMENT_SEARCH_TERM}'")
+        print(f"  Continuing anyway...")
+        players_dict = {}
     
     # Filter for tournaments containing "cow"
     print(f"\nFiltering for tournaments containing '{TOURNAMENT_SEARCH_TERM}'...")
     players_dict = filter_players_for_cowbell(players_dict)
     
+    if not players_dict:
+        print(f"\n⚠ Warning: No players found with tournaments containing '{TOURNAMENT_SEARCH_TERM}'")
+        print(f"  The output CSV will be empty or contain only headers")
+    
     # Calculate scores and prices
-    print("\nCalculating scores and prices...")
-    players_dict = calculate_all_scores(players_dict)
-    players_dict = calculate_players_prices(players_dict)
+    if players_dict:
+        print("\nCalculating scores and prices...")
+        players_dict = calculate_all_scores(players_dict)
+        players_dict = calculate_players_prices(players_dict)
+    else:
+        print("\nSkipping score/price calculations (no players found)")
     
     # Output to CSV
     print(f"\n{'=' * 60}")
@@ -379,8 +388,12 @@ def main():
     output_file = output_to_csv(players_dict, SCRIPT_DIR)
     
     print(f"\n{'=' * 60}")
-    print("✓ Script completed successfully!")
-    print(f"Output file: {output_file}")
+    if players_dict:
+        print("✓ Script completed successfully!")
+        print(f"Output file: {output_file}")
+    else:
+        print("⚠ Script completed with warnings (no Cowbell tournament data found)")
+        print(f"Output file: {output_file} (empty or headers only)")
     print(f"{'=' * 60}")
     
     return 0
