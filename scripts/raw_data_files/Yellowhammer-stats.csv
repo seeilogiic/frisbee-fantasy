@@ -1,0 +1,904 @@
+Date/Time,Tournamemnt,Opponent,Point Elapsed Seconds,Line,Our Score - End of Point,Their Score - End of Point,Event Type,Action,Passer,Receiver,Defender,Hang Time (secs),Player 0,Player 1,Player 2,Player 3,Player 4,Player 5,Player 6,Player 7,Player 8,Player 9,Player 10,Player 11,Player 12,Player 13,Player 14,Player 15,Player 16,Player 17,Player 18,Player 19,Player 20,Player 21,Player 22,Player 23,Player 24,Player 25,Player 26,Player 27,Elapsed Time (secs),Begin Area,Begin X,Begin Y,End Area,End X,End Y,Distance Unit of Measure,Absolute Distance,Lateral Distance,Toward Our Goal Distance
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,19,O,0,1,Offense,Drop,Alex,Peter,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,0
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,19,O,0,1,Defense,Goal,,,Anonymous,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,17
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,99,O,0,2,Offense,Throwaway,Conley,Anonymous,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,105
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,99,O,0,2,Defense,D,,,Tanner,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,118
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,99,O,0,2,Offense,Catch,Arden,Reed,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,139
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,99,O,0,2,Offense,Catch,Reed,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,142
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,99,O,0,2,Offense,Catch,Conley,John P,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,146
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,99,O,0,2,Offense,Catch,John P,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,150
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,99,O,0,2,Offense,Drop,Conley,John P,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,155
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,99,O,0,2,Defense,Goal,,,Anonymous,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,202
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,315
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Arden,Liam,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,323
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Liam,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,326
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Arden,Liam,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,331
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Liam,Cagle,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,335
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Cagle,CJ,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,339
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,CJ,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,343
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Arden,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,347
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,351
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Arden,Cagle,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,355
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Cagle,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,359
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Arden,Liam,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,363
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Liam,Tanner,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,367
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Tanner,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,371
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Arden,CJ,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,375
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,CJ,Tanner,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,379
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Tanner,Peter,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,383
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Peter,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,387
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Catch,Arden,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,391
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,82,O,1,2,Offense,Goal,Alex,Cagle,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,395
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,16,D,1,3,Defense,Pull,,,Ben,3.216,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,470
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,16,D,1,3,Defense,Goal,,,Anonymous,,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,484
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Alex,Conley,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,555
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Conley,Peter,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,564
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Peter,John P,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,572
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Throwaway,John P,Anonymous,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,578
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Defense,Throwaway,,,Anonymous,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,599
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Alex,Jackson,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,614
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Jackson,Conley,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,621
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Conley,Zac,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,627
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Zac,Jackson,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,631
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Jackson,Zac,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,637
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Zac,John P,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,640
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,John P,Conley,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,654
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Conley,Zac,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,658
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Zac,Conley,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,661
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Conley,Zac,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,666
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Zac,Conley,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,669
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Conley,Zac,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,673
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Zac,Conley,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,677
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Conley,Zac,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,681
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Zac,Conley,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,685
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Conley,Alex,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,689
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Alex,Conley,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,692
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Catch,Conley,Zac,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,696
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Offense,Drop,Zac,Peter,,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,747
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,236,O,1,4,Defense,Goal,,,Anonymous,,Alex,Brady,Reed,John P,Conley,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,789
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,64,O,1,5,Offense,Catch,Tanner,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,872
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,64,O,1,5,Offense,Catch,Conley,Liam,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,882
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,64,O,1,5,Offense,Catch,Liam,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,887
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,64,O,1,5,Offense,Catch,Tanner,Cagle,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,893
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,64,O,1,5,Offense,Catch,Cagle,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,896
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,64,O,1,5,Offense,Catch,Tanner,Cagle,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,900
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,64,O,1,5,Offense,Catch,Cagle,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,904
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,64,O,1,5,Offense,Catch,Conley,Reed,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,908
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,64,O,1,5,Offense,Throwaway,Reed,Anonymous,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,911
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,64,O,1,5,Defense,Goal,,,Anonymous,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,934
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Zac,CJ,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1056
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,CJ,Eli,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1065
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Eli,Zac,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1069
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Zac,Eli,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1073
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Eli,Zac,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1077
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Zac,Libby,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1080
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Libby,Zac,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1084
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Zac,Tanner,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1088
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Tanner,Roman,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1099
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Roman,Zac,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1116
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Zac,Libby,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1120
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Libby,CJ,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1124
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,CJ,Tanner,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1128
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Throwaway,Tanner,Anonymous,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1132
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Defense,Throwaway,,,Anonymous,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1150
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Roman,Zac,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1153
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Zac,Keaton,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1157
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Keaton,Zac,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1163
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Zac,Tanner,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1169
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Catch,Tanner,Zac,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1176
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,126,O,2,5,Offense,Goal,Zac,Roman,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1180
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,12,D,2,6,Defense,Pull,,,Josh,4.325,Bryant,Brady,Dylan,Keaton,Josh,Ben,Carson,,,,,,,,,,,,,,,,,,,,,,1286
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,12,D,2,6,Defense,Goal,,,Anonymous,,Bryant,Brady,Dylan,Keaton,Josh,Ben,Carson,,,,,,,,,,,,,,,,,,,,,,1296
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,34,O,2,7,Offense,Catch,Liam,Alex,,,Alex,Arden,CJ,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1379
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,34,O,2,7,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1389
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,34,O,2,7,Offense,Catch,Arden,Liam,,,Alex,Arden,CJ,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1400
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,34,O,2,7,Offense,Throwaway,Liam,Anonymous,,,Alex,Arden,CJ,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1407
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,34,O,2,7,Defense,Goal,,,Anonymous,,Alex,Arden,CJ,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1411
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,11,D,2,8,Defense,Pull,,,Ben,4.767,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,1958
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,11,D,2,8,Defense,Goal,,,Anonymous,,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,1967
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Reed,Liam,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2046
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Liam,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2058
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Conley,Liam,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2066
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Drop,Liam,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2070
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Defense,Throwaway,,,Anonymous,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2083
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Conley,Liam,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2095
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Liam,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2099
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Conley,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2103
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Arden,Cagle,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2107
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Cagle,Liam,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2111
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Liam,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2119
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Tanner,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2128
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Conley,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2132
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Tanner,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2140
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Conley,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2143
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Drop,Tanner,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2164
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Defense,Throwaway,,,Anonymous,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2168
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Arden,Cagle,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2186
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Cagle,John P,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2190
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,John P,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2193
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Conley,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2197
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Arden,Liam,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2201
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Liam,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2205
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Tanner,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2225
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Arden,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2229
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Conley,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2237
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Throwaway,Arden,Anonymous,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2241
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Defense,Throwaway,,,Anonymous,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2336
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Conley,Cagle,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2348
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Catch,Cagle,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2351
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,312,O,3,8,Offense,Goal,Tanner,John P,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2356
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,47,D,4,8,Defense,Pull,,,Ben,4.328,Bryant,Brady,Dylan,Keaton,CJ,Ben,Jackson,,,,,,,,,,,,,,,,,,,,,,2440
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,47,D,4,8,Defense,Throwaway,,,Anonymous,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Jackson,,,,,,,,,,,,,,,,,,,,,,2463
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,47,D,4,8,Offense,Catch,CJ,Ben,,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Jackson,,,,,,,,,,,,,,,,,,,,,,2477
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,47,D,4,8,Offense,Catch,Ben,Jackson,,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Jackson,,,,,,,,,,,,,,,,,,,,,,2481
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,47,D,4,8,Offense,Goal,Jackson,Brady,,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Jackson,,,,,,,,,,,,,,,,,,,,,,2485
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,157,D,5,8,Defense,Pull,,,Ben,5.135,Bryant,Brady,Dylan,Keaton,CJ,Ben,Conley,Jackson,,,,,,,,,,,,,,,,,,,,,2561
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,157,D,5,8,Defense,Throwaway,,,Anonymous,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Conley,Jackson,,,,,,,,,,,,,,,,,,,,,2610
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,157,D,5,8,Offense,Catch,Ben,Brady,,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Conley,Jackson,,,,,,,,,,,,,,,,,,,,,2620
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,157,D,5,8,Offense,Catch,Brady,Bryant,,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Conley,Jackson,,,,,,,,,,,,,,,,,,,,,2625
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,157,D,5,8,Offense,Catch,Bryant,Jackson,,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Conley,Jackson,,,,,,,,,,,,,,,,,,,,,2690
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,157,D,5,8,Offense,Catch,Jackson,Conley,,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Conley,Jackson,,,,,,,,,,,,,,,,,,,,,2704
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,157,D,5,8,Offense,Catch,Conley,Jackson,,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Conley,Jackson,,,,,,,,,,,,,,,,,,,,,2708
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,157,D,5,8,Offense,Catch,Jackson,Conley,,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Conley,Jackson,,,,,,,,,,,,,,,,,,,,,2712
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,157,D,5,8,Offense,Goal,Conley,Brady,,,Bryant,Brady,Dylan,Keaton,CJ,Ben,Conley,Jackson,,,,,,,,,,,,,,,,,,,,,2716
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Defense,Pull,,,Josh,7.237,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2820
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Defense,Throwaway,,,Anonymous,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2862
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Catch,Arden,Carson,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2870
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Catch,Carson,Hudson,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2874
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Catch,Hudson,Libby,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2886
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Catch,Libby,Arden,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2890
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Catch,Arden,Tanner,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2894
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Catch,Tanner,Roman,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2898
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Catch,Roman,Arden,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2902
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Catch,Arden,Roman,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2917
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Throwaway,Roman,Anonymous,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2947
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Defense,D,,,Arden,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2996
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Catch,Arden,Hudson,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2999
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Throwaway,Hudson,Anonymous,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3004
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Defense,Throwaway,,,Anonymous,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3028
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Throwaway,Arden,Anonymous,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3037
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Defense,Throwaway,,,Anonymous,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3042
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Offense,Drop,Arden,Hudson,,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3062
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,256,D,5,9,Defense,Goal,,,Anonymous,,Arden,Hudson,Josh,Roman,Tanner,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3074
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,15,O,5,10,Offense,Catch,Alex,Peter,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3184
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,15,O,5,10,Offense,Throwaway,Peter,Anonymous,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3193
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,15,O,5,10,Defense,Goal,,,Anonymous,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3197
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,7,O,6,10,Offense,Goal,Conley,Cagle,,,Arden,John P,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3314
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,83,D,6,11,Defense,Pull,,,CJ,5.993,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,3387
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,83,D,6,11,Defense,D,,,CJ,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,3394
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,83,D,6,11,Offense,Catch,CJ,Zac,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,3404
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,83,D,6,11,Offense,Catch,Zac,Libby,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,3411
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,83,D,6,11,Offense,Catch,Libby,Tanner,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,3418
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,83,D,6,11,Offense,Catch,Tanner,Zac,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,3425
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,83,D,6,11,Offense,Throwaway,Zac,Anonymous,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,3433
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,83,D,6,11,Defense,Goal,,,Anonymous,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,3468
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Liam,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3568
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3577
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Arden,Cagle,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3581
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Cagle,Peter,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3595
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Peter,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3600
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Arden,Tanner,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3610
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Tanner,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3613
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Arden,Tanner,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3627
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Tanner,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3631
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Arden,Tanner,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3637
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Catch,Tanner,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3641
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Offense,Throwaway,Arden,Anonymous,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3661
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,125,O,6,12,Defense,Goal,,,Anonymous,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3691
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Josh,Conley,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3798
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Conley,Libby,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3807
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Libby,Carson,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3811
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Carson,Bryant,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3815
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Bryant,Brady,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3818
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Throwaway,Brady,Anonymous,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3831
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Defense,D,,,Josh,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3860
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Conley,Libby,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3886
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Libby,Conley,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3892
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Conley,Carson,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3902
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Carson,Libby,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3906
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Libby,Carson,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3910
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Carson,Conley,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3915
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Conley,Josh,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3919
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Josh,Libby,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3923
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Libby,Josh,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3927
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Josh,Conley,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3931
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Conley,Josh,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3935
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Josh,Libby,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3939
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Libby,Conley,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3943
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Conley,Libby,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3946
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Catch,Libby,Brady,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3950
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,159,O,7,12,Offense,Goal,Brady,Bryant,,,Bryant,Brady,Dylan,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3955
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,6,D,7,13,Defense,Pull,,,Ben,6.117,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4067
+2025-10-25 10:48,Fall Easterns,UNCW Alumni,6,D,7,13,Defense,Goal,,,Anonymous,,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4071
+2025-10-25 14:13,Fall Easterns,App State,28,D,1,0,Defense,Pull,,,Ben,8.349,Bryant,Dylan,CJ,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,0
+2025-10-25 14:13,Fall Easterns,App State,28,D,1,0,Defense,D,,,Ben,,Bryant,Dylan,CJ,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,9
+2025-10-25 14:13,Fall Easterns,App State,28,D,1,0,Offense,Goal,Ben,CJ,,,Bryant,Dylan,CJ,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,26
+2025-10-25 14:13,Fall Easterns,App State,22,D,1,1,Defense,Pull,,,CJ,3.362,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,126
+2025-10-25 14:13,Fall Easterns,App State,22,D,1,1,Defense,Goal,,,Anonymous,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,146
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Reed,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,252
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Conley,Reed,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,274
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Reed,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,277
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,281
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Alex,Reed,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,290
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Reed,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,294
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,298
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Alex,Zac,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,302
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Throwaway,Zac,Anonymous,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,306
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Defense,Throwaway,,,Anonymous,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,349
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,362
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Alex,Reed,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,366
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Catch,Reed,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,370
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Offense,Drop,Alex,Jackson,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,380
+2025-10-25 14:13,Fall Easterns,App State,141,O,1,2,Defense,Goal,,,Anonymous,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,391
+2025-10-25 14:13,Fall Easterns,App State,116,O,1,3,Offense,Catch,Conley,Reed,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,537
+2025-10-25 14:13,Fall Easterns,App State,116,O,1,3,Offense,Catch,Reed,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,546
+2025-10-25 14:13,Fall Easterns,App State,116,O,1,3,Offense,Catch,Conley,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,550
+2025-10-25 14:13,Fall Easterns,App State,116,O,1,3,Offense,Catch,Arden,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,554
+2025-10-25 14:13,Fall Easterns,App State,116,O,1,3,Offense,Catch,Tanner,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,558
+2025-10-25 14:13,Fall Easterns,App State,116,O,1,3,Offense,Throwaway,Arden,Anonymous,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,561
+2025-10-25 14:13,Fall Easterns,App State,116,O,1,3,Defense,Goal,,,Anonymous,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,651
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Alex,Conley,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,762
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Conley,Tanner,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,772
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Tanner,Peter,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,776
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Peter,Conley,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,779
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Conley,Alex,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,782
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Alex,Conley,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,788
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Drop,Conley,Alex,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,794
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Defense,D,,,Cagle,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,817
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Liam,Alex,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,826
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Alex,Tanner,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,830
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Tanner,Conley,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,834
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Conley,Tanner,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,839
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Tanner,Conley,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,842
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Conley,Peter,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,845
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Peter,Conley,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,850
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Conley,Alex,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,854
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Alex,Tanner,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,858
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Tanner,Alex,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,862
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Alex,Tanner,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,867
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Tanner,Conley,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,870
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Conley,Alex,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,874
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Alex,Liam,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,878
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Catch,Liam,Cagle,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,882
+2025-10-25 14:13,Fall Easterns,App State,128,O,2,3,Offense,Goal,Cagle,CJ,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,888
+2025-10-25 14:13,Fall Easterns,App State,133,D,3,3,Defense,Pull,,,Ben,8.147,Bryant,Dylan,Keaton,Arden,Josh,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1016
+2025-10-25 14:13,Fall Easterns,App State,133,D,3,3,Defense,Throwaway,,,Anonymous,,Bryant,Dylan,Keaton,Arden,Josh,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1027
+2025-10-25 14:13,Fall Easterns,App State,133,D,3,3,Offense,Throwaway,Ben,Anonymous,,,Bryant,Dylan,Keaton,Arden,Josh,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1056
+2025-10-25 14:13,Fall Easterns,App State,133,D,3,3,Defense,D,,,Zac,,Bryant,Dylan,Keaton,Arden,Josh,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1097
+2025-10-25 14:13,Fall Easterns,App State,133,D,3,3,Offense,Catch,Ben,Bryant,,,Bryant,Dylan,Keaton,Arden,Josh,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1121
+2025-10-25 14:13,Fall Easterns,App State,133,D,3,3,Offense,Catch,Bryant,Arden,,,Bryant,Dylan,Keaton,Arden,Josh,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1131
+2025-10-25 14:13,Fall Easterns,App State,133,D,3,3,Offense,Catch,Arden,Bryant,,,Bryant,Dylan,Keaton,Arden,Josh,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1135
+2025-10-25 14:13,Fall Easterns,App State,133,D,3,3,Offense,Catch,Bryant,Arden,,,Bryant,Dylan,Keaton,Arden,Josh,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1139
+2025-10-25 14:13,Fall Easterns,App State,133,D,3,3,Offense,Catch,Arden,Ben,,,Bryant,Dylan,Keaton,Arden,Josh,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1143
+2025-10-25 14:13,Fall Easterns,App State,133,D,3,3,Offense,Goal,Ben,Arden,,,Bryant,Dylan,Keaton,Arden,Josh,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1147
+2025-10-25 14:13,Fall Easterns,App State,62,D,3,4,Defense,Pull,,,Ben,6.314,Dylan,CJ,Josh,Ben,Roman,Tanner,Libby,,,,,,,,,,,,,,,,,,,,,,1258
+2025-10-25 14:13,Fall Easterns,App State,62,D,3,4,Defense,Goal,,,Anonymous,,Dylan,CJ,Josh,Ben,Roman,Tanner,Libby,,,,,,,,,,,,,,,,,,,,,,1318
+2025-10-25 14:13,Fall Easterns,App State,86,O,3,5,Offense,Catch,Alex,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1426
+2025-10-25 14:13,Fall Easterns,App State,86,O,3,5,Offense,Catch,Conley,Reed,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1442
+2025-10-25 14:13,Fall Easterns,App State,86,O,3,5,Offense,Catch,Reed,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1446
+2025-10-25 14:13,Fall Easterns,App State,86,O,3,5,Offense,Throwaway,Conley,Anonymous,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1450
+2025-10-25 14:13,Fall Easterns,App State,86,O,3,5,Defense,Goal,,,Anonymous,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1510
+2025-10-25 14:13,Fall Easterns,App State,122,O,4,5,Offense,Catch,Ben,Conley,,,Reed,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1644
+2025-10-25 14:13,Fall Easterns,App State,122,O,4,5,Offense,Catch,Conley,Reed,,,Reed,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1658
+2025-10-25 14:13,Fall Easterns,App State,122,O,4,5,Offense,Catch,Reed,Tanner,,,Reed,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1662
+2025-10-25 14:13,Fall Easterns,App State,122,O,4,5,Offense,Catch,Tanner,Conley,,,Reed,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1667
+2025-10-25 14:13,Fall Easterns,App State,122,O,4,5,Offense,Catch,Conley,Liam,,,Reed,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1670
+2025-10-25 14:13,Fall Easterns,App State,122,O,4,5,Offense,Throwaway,Liam,Anonymous,,,Reed,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1678
+2025-10-25 14:13,Fall Easterns,App State,122,O,4,5,Defense,Throwaway,,,Anonymous,,Reed,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1738
+2025-10-25 14:13,Fall Easterns,App State,122,O,4,5,Offense,Catch,Ben,Liam,,,Reed,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1757
+2025-10-25 14:13,Fall Easterns,App State,122,O,4,5,Offense,Goal,Liam,Arden,,,Reed,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1764
+2025-10-25 14:13,Fall Easterns,App State,41,D,5,5,Defense,Pull,,,Anonymous,2.537,Bryant,Alex,Keaton,Arden,CJ,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1867
+2025-10-25 14:13,Fall Easterns,App State,41,D,5,5,Defense,Throwaway,,,Anonymous,,Bryant,Alex,Keaton,Arden,CJ,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1871
+2025-10-25 14:13,Fall Easterns,App State,41,D,5,5,Offense,Goal,Ben,Arden,,,Bryant,Alex,Keaton,Arden,CJ,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1906
+2025-10-25 14:13,Fall Easterns,App State,141,D,6,5,Defense,Pull,,,Ben,3.891,Bryant,Alex,Keaton,Arden,CJ,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,1968
+2025-10-25 14:13,Fall Easterns,App State,141,D,6,5,Defense,D,,,Zac,,Bryant,Alex,Keaton,Arden,CJ,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,2092
+2025-10-25 14:13,Fall Easterns,App State,141,D,6,5,Offense,Catch,Zac,Keaton,,,Bryant,Alex,Keaton,Arden,CJ,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,2097
+2025-10-25 14:13,Fall Easterns,App State,141,D,6,5,Offense,Catch,Keaton,Alex,,,Bryant,Alex,Keaton,Arden,CJ,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,2100
+2025-10-25 14:13,Fall Easterns,App State,141,D,6,5,Offense,Goal,Alex,Zac,,,Bryant,Alex,Keaton,Arden,CJ,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,2107
+2025-10-25 14:13,Fall Easterns,App State,78,D,7,5,Defense,Pull,,,Ben,4.998,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2326
+2025-10-25 14:13,Fall Easterns,App State,78,D,7,5,Defense,Throwaway,,,Anonymous,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2356
+2025-10-25 14:13,Fall Easterns,App State,78,D,7,5,Offense,Catch,Ben,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2361
+2025-10-25 14:13,Fall Easterns,App State,78,D,7,5,Offense,Catch,Conley,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2367
+2025-10-25 14:13,Fall Easterns,App State,78,D,7,5,Offense,Catch,Alex,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2374
+2025-10-25 14:13,Fall Easterns,App State,78,D,7,5,Offense,Catch,Conley,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2378
+2025-10-25 14:13,Fall Easterns,App State,78,D,7,5,Offense,Catch,Alex,CJ,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2382
+2025-10-25 14:13,Fall Easterns,App State,78,D,7,5,Offense,Catch,CJ,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2385
+2025-10-25 14:13,Fall Easterns,App State,78,D,7,5,Offense,Catch,Conley,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2391
+2025-10-25 14:13,Fall Easterns,App State,78,D,7,5,Offense,Goal,Ben,CJ,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2402
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Conley,Ben,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3159
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Ben,Alex,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3168
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Alex,Zac,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3172
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Zac,Alex,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3176
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Alex,Tanner,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3179
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Tanner,Zac,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3182
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Zac,Ben,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3185
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Ben,Zac,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3189
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Zac,Ben,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3199
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Ben,Alex,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3203
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Alex,Conley,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3207
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Catch,Conley,Zac,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3211
+2025-10-25 14:13,Fall Easterns,App State,58,O,8,5,Offense,Goal,Zac,Peter,,,Alex,Ben,Conley,Peter,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,3215
+2025-10-25 14:13,Fall Easterns,App State,44,D,8,6,Defense,Pull,,,Arden,3.242,Bryant,Dylan,Keaton,Arden,Roman,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,3319
+2025-10-25 14:13,Fall Easterns,App State,44,D,8,6,Defense,Goal,,,Anonymous,,Bryant,Dylan,Keaton,Arden,Roman,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,3361
+2025-10-25 14:13,Fall Easterns,App State,35,O,9,6,Offense,Catch,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3487
+2025-10-25 14:13,Fall Easterns,App State,35,O,9,6,Offense,Catch,Alex,Zac,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3496
+2025-10-25 14:13,Fall Easterns,App State,35,O,9,6,Offense,Catch,Zac,Peter,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3499
+2025-10-25 14:13,Fall Easterns,App State,35,O,9,6,Offense,Catch,Peter,Reed,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3503
+2025-10-25 14:13,Fall Easterns,App State,35,O,9,6,Offense,Catch,Reed,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3507
+2025-10-25 14:13,Fall Easterns,App State,35,O,9,6,Offense,Catch,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3511
+2025-10-25 14:13,Fall Easterns,App State,35,O,9,6,Offense,Catch,Alex,Zac,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3515
+2025-10-25 14:13,Fall Easterns,App State,35,O,9,6,Offense,Goal,Zac,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3520
+2025-10-25 14:13,Fall Easterns,App State,111,D,9,7,Defense,PullOb,,,Arden,,Bryant,Dylan,Arden,Roman,Libby,Liam,Carson,,,,,,,,,,,,,,,,,,,,,,3622
+2025-10-25 14:13,Fall Easterns,App State,111,D,9,7,Defense,Goal,,,Anonymous,,Bryant,Dylan,Arden,Roman,Libby,Liam,Carson,,,,,,,,,,,,,,,,,,,,,,3731
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Conley,Reed,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3873
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Reed,John P,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3881
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,John P,Tanner,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3885
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Tanner,Liam,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3889
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Throwaway,Liam,Anonymous,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3897
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Defense,D,,,Alex,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3958
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Alex,Cagle,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3987
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Cagle,Alex,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3991
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Alex,Conley,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3998
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Conley,Cagle,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4005
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Cagle,Liam,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4009
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Liam,Tanner,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4013
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Tanner,Liam,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4018
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Liam,Conley,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4021
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,Conley,John P,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4025
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Catch,John P,Liam,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4030
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Offense,Throwaway,Liam,Anonymous,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4040
+2025-10-25 14:13,Fall Easterns,App State,485,O,9,8,Defense,Goal,,,Anonymous,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4356
+2025-10-25 14:13,Fall Easterns,App State,17,O,10,8,Offense,Catch,Alex,Zac,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4508
+2025-10-25 14:13,Fall Easterns,App State,17,O,10,8,Offense,Catch,Zac,CJ,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4516
+2025-10-25 14:13,Fall Easterns,App State,17,O,10,8,Offense,Goal,CJ,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4523
+2025-10-25 14:13,Fall Easterns,App State,110,D,10,9,Defense,Pull,,,Ben,5.475,Arden,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,4628
+2025-10-25 14:13,Fall Easterns,App State,110,D,10,9,Defense,D,,,Jackson,,Arden,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,4632
+2025-10-25 14:13,Fall Easterns,App State,110,D,10,9,Offense,Throwaway,Ben,Anonymous,,,Arden,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,4647
+2025-10-25 14:13,Fall Easterns,App State,110,D,10,9,Defense,Throwaway,,,Anonymous,,Arden,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,4669
+2025-10-25 14:13,Fall Easterns,App State,110,D,10,9,Offense,Throwaway,Ben,Anonymous,,,Arden,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,4685
+2025-10-25 14:13,Fall Easterns,App State,110,D,10,9,Defense,Goal,,,Anonymous,,Arden,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,4736
+2025-10-25 14:13,Fall Easterns,App State,56,O,11,9,Offense,Catch,Alex,Conley,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4837
+2025-10-25 14:13,Fall Easterns,App State,56,O,11,9,Offense,Catch,Conley,Alex,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4848
+2025-10-25 14:13,Fall Easterns,App State,56,O,11,9,Offense,Catch,Alex,Conley,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4856
+2025-10-25 14:13,Fall Easterns,App State,56,O,11,9,Offense,Catch,Conley,Liam,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4860
+2025-10-25 14:13,Fall Easterns,App State,56,O,11,9,Offense,Catch,Liam,CJ,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4864
+2025-10-25 14:13,Fall Easterns,App State,56,O,11,9,Offense,Catch,CJ,Tanner,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4868
+2025-10-25 14:13,Fall Easterns,App State,56,O,11,9,Offense,Catch,Tanner,Cagle,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4887
+2025-10-25 14:13,Fall Easterns,App State,56,O,11,9,Offense,Goal,Cagle,Alex,,,Alex,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4891
+2025-10-25 14:13,Fall Easterns,App State,39,D,11,10,Defense,Pull,,,CJ,14.114,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,5000
+2025-10-25 14:13,Fall Easterns,App State,39,D,11,10,Defense,Goal,,,Anonymous,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,5037
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Conley,Ben,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5138
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Ben,Cagle,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5147
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Throwaway,Cagle,Anonymous,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5155
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Defense,Throwaway,,,Anonymous,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5177
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Alex,Arden,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5186
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Arden,Alex,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5193
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Alex,Ben,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5199
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Ben,Cagle,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5206
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Cagle,Arden,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5210
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Arden,Alex,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5214
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Alex,Tanner,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5218
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Tanner,Arden,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5222
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Arden,Ben,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5226
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Ben,Alex,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5230
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Alex,Arden,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5234
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Catch,Arden,Alex,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5264
+2025-10-25 14:13,Fall Easterns,App State,132,O,12,10,Offense,Goal,Alex,Conley,,,Alex,Arden,Ben,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5268
+2025-10-25 14:13,Fall Easterns,App State,36,D,12,11,Defense,Pull,,,Ben,4.985,Alex,Arden,CJ,Ben,Jackson,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,5362
+2025-10-25 14:13,Fall Easterns,App State,36,D,12,11,Defense,Goal,,,Anonymous,,Alex,Arden,CJ,Ben,Jackson,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,5396
+2025-10-25 14:13,Fall Easterns,App State,36,O,13,11,Offense,Catch,Tanner,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Cagle,,,,,,,,,,,,,,,,,,,,,,5498
+2025-10-25 14:13,Fall Easterns,App State,36,O,13,11,Offense,Catch,Conley,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Cagle,,,,,,,,,,,,,,,,,,,,,,5524
+2025-10-25 14:13,Fall Easterns,App State,36,O,13,11,Offense,Catch,Ben,Arden,,,Alex,Arden,CJ,Ben,Conley,Tanner,Cagle,,,,,,,,,,,,,,,,,,,,,,5528
+2025-10-25 14:13,Fall Easterns,App State,36,O,13,11,Offense,Goal,Arden,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Cagle,,,,,,,,,,,,,,,,,,,,,,5532
+2025-10-26 10:50,Fall Easterns,UNCW,49,O,0,1,Offense,Catch,Alex,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,0
+2025-10-26 10:50,Fall Easterns,UNCW,49,O,0,1,Offense,Throwaway,Ben,Anonymous,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,9
+2025-10-26 10:50,Fall Easterns,UNCW,49,O,0,1,Defense,Goal,,,Anonymous,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,47
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,133
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Alex,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,145
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Conley,Peter,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,149
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Throwaway,Peter,Anonymous,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,153
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Defense,D,,,Alex,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,163
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Alex,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,169
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Conley,Reed,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,174
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Reed,Jackson,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,178
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Jackson,Reed,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,182
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Reed,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,186
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Throwaway,Conley,Anonymous,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,193
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Defense,D,,,Alex,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,211
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,215
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Alex,Zac,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,219
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Catch,Zac,Jackson,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,223
+2025-10-26 10:50,Fall Easterns,UNCW,98,O,1,1,Offense,Goal,Jackson,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,229
+2025-10-26 10:50,Fall Easterns,UNCW,60,D,1,2,Defense,Pull,,,CJ,,Bryant,CJ,Roman,Peter,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,322
+2025-10-26 10:50,Fall Easterns,UNCW,60,D,1,2,Defense,Goal,,,Anonymous,,Bryant,CJ,Roman,Peter,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,380
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Offense,Catch,Conley,Reed,,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,467
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Offense,Catch,Reed,Tanner,,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,475
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Offense,Catch,Tanner,Reed,,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,479
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Offense,Catch,Reed,Tanner,,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,485
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Offense,Throwaway,Tanner,Anonymous,,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,492
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Defense,Throwaway,,,Anonymous,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,496
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Offense,Throwaway,Conley,Anonymous,,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,503
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Defense,D,,,Conley,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,542
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Offense,Catch,Conley,Arden,,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,545
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Offense,Throwaway,Arden,Anonymous,,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,549
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Defense,D,,,Liam,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,557
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Offense,Drop,Liam,Conley,,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,563
+2025-10-26 10:50,Fall Easterns,UNCW,142,O,1,3,Defense,Goal,,,Anonymous,,Alex,Reed,Arden,John P,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,607
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Catch,Ben,Conley,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,732
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Catch,Conley,Ben,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,740
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Catch,Ben,Zac,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,743
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Catch,Zac,Ben,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,747
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Catch,Ben,Alex,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,751
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Catch,Alex,Ben,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,755
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Catch,Ben,Arden,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,759
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Catch,Arden,Zac,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,763
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Catch,Zac,Ben,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,767
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Catch,Ben,Zac,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,771
+2025-10-26 10:50,Fall Easterns,UNCW,45,O,2,3,Offense,Goal,Zac,Liam,,,Alex,Arden,CJ,Ben,Conley,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,775
+2025-10-26 10:50,Fall Easterns,UNCW,57,D,2,4,Defense,Pull,,,Ben,5.241,Bryant,Dylan,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,857
+2025-10-26 10:50,Fall Easterns,UNCW,57,D,2,4,Defense,Goal,,,Anonymous,,Bryant,Dylan,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,912
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Reed,Conley,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1001
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Conley,Alex,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1010
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Alex,Tanner,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1014
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Tanner,Conley,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1018
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Conley,Arden,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1022
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Arden,Tanner,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1026
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Tanner,Conley,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1030
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Conley,Arden,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1034
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Arden,Conley,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1038
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Conley,Arden,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1042
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Arden,Conley,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1046
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Conley,Tanner,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1050
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Tanner,Conley,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1054
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Conley,Tanner,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1058
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Tanner,Conley,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1062
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Conley,CJ,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1066
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,CJ,Arden,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1070
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Catch,Arden,Conley,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1074
+2025-10-26 10:50,Fall Easterns,UNCW,79,O,3,4,Offense,Goal,Conley,Tanner,,,Alex,Reed,Arden,CJ,Conley,Tanner,Liam,,,,,,,,,,,,,,,,,,,,,,1078
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Defense,Pull,,,Ben,4.891,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1165
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Defense,Throwaway,,,Anonymous,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1196
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Offense,Catch,Ben,Zac,,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1212
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Offense,Catch,Zac,Cagle,,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1217
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Offense,Catch,Cagle,Zac,,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1222
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Offense,Catch,Zac,CJ,,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1226
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Offense,Catch,CJ,Zac,,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1230
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Offense,Catch,Zac,Ben,,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1239
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Offense,Throwaway,Ben,Anonymous,,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1243
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Defense,Throwaway,,,Anonymous,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1284
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Offense,Catch,Ben,Zac,,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1318
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Offense,Catch,Zac,Ben,,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1322
+2025-10-26 10:50,Fall Easterns,UNCW,163,D,4,4,Offense,Goal,Ben,Libby,,,Keaton,CJ,Ben,Roman,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,1326
+2025-10-26 10:50,Fall Easterns,UNCW,38,D,4,5,Defense,Pull,,,Ben,2.843,Bryant,Keaton,Josh,Ben,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,1433
+2025-10-26 10:50,Fall Easterns,UNCW,38,D,4,5,Defense,Goal,,,Anonymous,,Bryant,Keaton,Josh,Ben,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,1469
+2025-10-26 10:50,Fall Easterns,UNCW,28,O,5,5,Offense,Catch,Ben,Zac,,,Alex,John P,Ben,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1595
+2025-10-26 10:50,Fall Easterns,UNCW,28,O,5,5,Offense,Catch,Zac,Ben,,,Alex,John P,Ben,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1606
+2025-10-26 10:50,Fall Easterns,UNCW,28,O,5,5,Offense,Catch,Ben,Alex,,,Alex,John P,Ben,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1610
+2025-10-26 10:50,Fall Easterns,UNCW,28,O,5,5,Offense,Goal,Alex,Ben,,,Alex,John P,Ben,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1621
+2025-10-26 10:50,Fall Easterns,UNCW,44,D,6,5,Defense,Pull,,,Arden,2.912,Bryant,Arden,CJ,John P,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,1743
+2025-10-26 10:50,Fall Easterns,UNCW,44,D,6,5,Defense,Throwaway,,,Anonymous,,Bryant,Arden,CJ,John P,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,1747
+2025-10-26 10:50,Fall Easterns,UNCW,44,D,6,5,Offense,Catch,Arden,Tanner,,,Bryant,Arden,CJ,John P,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,1764
+2025-10-26 10:50,Fall Easterns,UNCW,44,D,6,5,Offense,Catch,Tanner,Carson,,,Bryant,Arden,CJ,John P,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,1772
+2025-10-26 10:50,Fall Easterns,UNCW,44,D,6,5,Offense,Catch,Carson,John P,,,Bryant,Arden,CJ,John P,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,1777
+2025-10-26 10:50,Fall Easterns,UNCW,44,D,6,5,Offense,Catch,John P,Arden,,,Bryant,Arden,CJ,John P,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,1781
+2025-10-26 10:50,Fall Easterns,UNCW,44,D,6,5,Offense,Goal,Arden,Carson,,,Bryant,Arden,CJ,John P,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,1785
+2025-10-26 10:50,Fall Easterns,UNCW,69,D,6,6,Defense,Pull,,,Arden,3.985,Bryant,Arden,CJ,John P,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,1891
+2025-10-26 10:50,Fall Easterns,UNCW,69,D,6,6,Defense,Goal,,,Anonymous,,Bryant,Arden,CJ,John P,Tanner,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,1958
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Conley,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2123
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Ben,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2131
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Alex,Tanner,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2136
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Tanner,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2144
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Alex,Tanner,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2150
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Tanner,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2154
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Conley,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2158
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Ben,CJ,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2163
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,CJ,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2167
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Ben,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2177
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2181
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Catch,Arden,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2185
+2025-10-26 10:50,Fall Easterns,UNCW,68,O,7,6,Offense,Goal,Ben,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,2189
+2025-10-26 10:50,Fall Easterns,UNCW,125,D,8,6,Defense,Pull,,,Arden,5.866,Arden,John P,Jackson,Peter,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,2614
+2025-10-26 10:50,Fall Easterns,UNCW,125,D,8,6,Defense,Throwaway,,,Anonymous,,Arden,John P,Jackson,Peter,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,2627
+2025-10-26 10:50,Fall Easterns,UNCW,125,D,8,6,Offense,Catch,Arden,John P,,,Arden,John P,Jackson,Peter,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,2636
+2025-10-26 10:50,Fall Easterns,UNCW,125,D,8,6,Offense,Catch,John P,Jackson,,,Arden,John P,Jackson,Peter,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,2640
+2025-10-26 10:50,Fall Easterns,UNCW,125,D,8,6,Offense,Catch,Jackson,Arden,,,Arden,John P,Jackson,Peter,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,2648
+2025-10-26 10:50,Fall Easterns,UNCW,125,D,8,6,Offense,Catch,Arden,Jackson,,,Arden,John P,Jackson,Peter,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,2652
+2025-10-26 10:50,Fall Easterns,UNCW,125,D,8,6,Offense,Catch,Jackson,Carson,,,Arden,John P,Jackson,Peter,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,2656
+2025-10-26 10:50,Fall Easterns,UNCW,125,D,8,6,Offense,Catch,Carson,Jackson,,,Arden,John P,Jackson,Peter,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,2711
+2025-10-26 10:50,Fall Easterns,UNCW,125,D,8,6,Offense,Catch,Jackson,John P,,,Arden,John P,Jackson,Peter,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,2716
+2025-10-26 10:50,Fall Easterns,UNCW,125,D,8,6,Offense,Goal,John P,Carson,,,Arden,John P,Jackson,Peter,Libby,Cagle,Carson,,,,,,,,,,,,,,,,,,,,,,2737
+2025-10-26 10:50,Fall Easterns,UNCW,325,D,8,7,Defense,Pull,,,Ben,4.06,Bryant,Dylan,CJ,Ben,Roman,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,2826
+2025-10-26 10:50,Fall Easterns,UNCW,325,D,8,7,Defense,D,,,Roman,,Bryant,Dylan,CJ,Ben,Roman,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,2839
+2025-10-26 10:50,Fall Easterns,UNCW,325,D,8,7,Offense,Catch,Ben,CJ,,,Bryant,Dylan,CJ,Ben,Roman,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,2852
+2025-10-26 10:50,Fall Easterns,UNCW,325,D,8,7,Offense,Catch,CJ,Carson,,,Bryant,Dylan,CJ,Ben,Roman,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,2856
+2025-10-26 10:50,Fall Easterns,UNCW,325,D,8,7,Offense,Catch,Carson,Bryant,,,Bryant,Dylan,CJ,Ben,Roman,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,2860
+2025-10-26 10:50,Fall Easterns,UNCW,325,D,8,7,Offense,Catch,Bryant,CJ,,,Bryant,Dylan,CJ,Ben,Roman,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,2863
+2025-10-26 10:50,Fall Easterns,UNCW,325,D,8,7,Offense,Catch,CJ,Ben,,,Bryant,Dylan,CJ,Ben,Roman,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,2867
+2025-10-26 10:50,Fall Easterns,UNCW,325,D,8,7,Offense,Drop,Ben,Zac,,,Bryant,Dylan,CJ,Ben,Roman,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,2897
+2025-10-26 10:50,Fall Easterns,UNCW,325,D,8,7,Defense,Goal,,,Anonymous,,Bryant,Dylan,CJ,Ben,Roman,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,3149
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,8,8,Offense,Catch,Alex,Conley,,,Alex,Reed,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3256
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,8,8,Offense,Catch,Conley,Alex,,,Alex,Reed,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3265
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,8,8,Offense,Catch,Alex,Tanner,,,Alex,Reed,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3269
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,8,8,Offense,Catch,Tanner,Conley,,,Alex,Reed,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3277
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,8,8,Offense,Catch,Conley,Zac,,,Alex,Reed,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3287
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,8,8,Offense,Catch,Zac,Conley,,,Alex,Reed,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3292
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,8,8,Offense,Catch,Conley,Zac,,,Alex,Reed,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3301
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,8,8,Offense,Catch,Zac,Conley,,,Alex,Reed,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3305
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,8,8,Offense,Throwaway,Conley,Anonymous,,,Alex,Reed,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3309
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,8,8,Defense,Goal,,,Anonymous,,Alex,Reed,Conley,Tanner,Liam,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3364
+2025-10-26 10:50,Fall Easterns,UNCW,32,O,9,8,Offense,Catch,Conley,Ben,,,Alex,Arden,CJ,Ben,Conley,Peter,Tanner,,,,,,,,,,,,,,,,,,,,,,3468
+2025-10-26 10:50,Fall Easterns,UNCW,32,O,9,8,Offense,Catch,Ben,Tanner,,,Alex,Arden,CJ,Ben,Conley,Peter,Tanner,,,,,,,,,,,,,,,,,,,,,,3478
+2025-10-26 10:50,Fall Easterns,UNCW,32,O,9,8,Offense,Catch,Tanner,Ben,,,Alex,Arden,CJ,Ben,Conley,Peter,Tanner,,,,,,,,,,,,,,,,,,,,,,3485
+2025-10-26 10:50,Fall Easterns,UNCW,32,O,9,8,Offense,Catch,Ben,Conley,,,Alex,Arden,CJ,Ben,Conley,Peter,Tanner,,,,,,,,,,,,,,,,,,,,,,3495
+2025-10-26 10:50,Fall Easterns,UNCW,32,O,9,8,Offense,Goal,Conley,CJ,,,Alex,Arden,CJ,Ben,Conley,Peter,Tanner,,,,,,,,,,,,,,,,,,,,,,3498
+2025-10-26 10:50,Fall Easterns,UNCW,48,D,10,8,Defense,Pull,,,Ben,6.167,Bryant,Arden,John P,Ben,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3605
+2025-10-26 10:50,Fall Easterns,UNCW,48,D,10,8,Defense,Throwaway,,,Anonymous,,Bryant,Arden,John P,Ben,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3628
+2025-10-26 10:50,Fall Easterns,UNCW,48,D,10,8,Offense,Catch,Ben,Bryant,,,Bryant,Arden,John P,Ben,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3639
+2025-10-26 10:50,Fall Easterns,UNCW,48,D,10,8,Offense,Catch,Bryant,Cagle,,,Bryant,Arden,John P,Ben,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3642
+2025-10-26 10:50,Fall Easterns,UNCW,48,D,10,8,Offense,Catch,Cagle,Ben,,,Bryant,Arden,John P,Ben,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3645
+2025-10-26 10:50,Fall Easterns,UNCW,48,D,10,8,Offense,Goal,Ben,Zac,,,Bryant,Arden,John P,Ben,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3651
+2025-10-26 10:50,Fall Easterns,UNCW,62,D,10,9,Defense,Pull,,,Alex,6.155,Bryant,Alex,John P,Jackson,Peter,Libby,Cagle,,,,,,,,,,,,,,,,,,,,,,3771
+2025-10-26 10:50,Fall Easterns,UNCW,62,D,10,9,Defense,Goal,,,Anonymous,,Bryant,Alex,John P,Jackson,Peter,Libby,Cagle,,,,,,,,,,,,,,,,,,,,,,3831
+2025-10-26 10:50,Fall Easterns,UNCW,69,O,10,10,Offense,Catch,Alex,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3994
+2025-10-26 10:50,Fall Easterns,UNCW,69,O,10,10,Offense,Catch,Ben,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4004
+2025-10-26 10:50,Fall Easterns,UNCW,69,O,10,10,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4008
+2025-10-26 10:50,Fall Easterns,UNCW,69,O,10,10,Offense,Catch,Arden,Tanner,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4011
+2025-10-26 10:50,Fall Easterns,UNCW,69,O,10,10,Offense,Throwaway,Tanner,Anonymous,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4022
+2025-10-26 10:50,Fall Easterns,UNCW,69,O,10,10,Defense,Goal,,,Anonymous,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4061
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Conley,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4214
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Alex,Zac,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4277
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Zac,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4283
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Conley,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4287
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Ben,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4304
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Conley,Arden,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4312
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Arden,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4316
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4320
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Arden,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4357
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Alex,Zac,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4360
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Catch,Zac,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4364
+2025-10-26 10:50,Fall Easterns,UNCW,160,O,11,10,Offense,Goal,Ben,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4372
+2025-10-26 10:50,Fall Easterns,UNCW,100,D,11,11,Defense,Pull,,,Ben,,Alex,Arden,CJ,Ben,Peter,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,4475
+2025-10-26 10:50,Fall Easterns,UNCW,100,D,11,11,Defense,D,,,Ben,,Alex,Arden,CJ,Ben,Peter,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,4492
+2025-10-26 10:50,Fall Easterns,UNCW,100,D,11,11,Offense,Throwaway,Ben,Anonymous,,,Alex,Arden,CJ,Ben,Peter,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,4499
+2025-10-26 10:50,Fall Easterns,UNCW,100,D,11,11,Defense,Goal,,,Anonymous,,Alex,Arden,CJ,Ben,Peter,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,4573
+2025-10-26 10:50,Fall Easterns,UNCW,55,O,11,12,Offense,Catch,Conley,Ben,,,Alex,Arden,Ben,Conley,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,4687
+2025-10-26 10:50,Fall Easterns,UNCW,55,O,11,12,Offense,Catch,Ben,Alex,,,Alex,Arden,Ben,Conley,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,4696
+2025-10-26 10:50,Fall Easterns,UNCW,55,O,11,12,Offense,Drop,Alex,Zac,,,Alex,Arden,Ben,Conley,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,4707
+2025-10-26 10:50,Fall Easterns,UNCW,55,O,11,12,Defense,Goal,,,Anonymous,,Alex,Arden,Ben,Conley,Tanner,Liam,Zac,,,,,,,,,,,,,,,,,,,,,,4740
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,11,13,Offense,Catch,Alex,Ben,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4847
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,11,13,Offense,Catch,Ben,Arden,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4878
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,11,13,Offense,Catch,Arden,Zac,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4885
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,11,13,Offense,Throwaway,Zac,Anonymous,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4934
+2025-10-26 10:50,Fall Easterns,UNCW,110,O,11,13,Defense,Goal,,,Anonymous,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,4955
+2025-10-25 12:30,Fall Easterns,Indiana,42,D,1,0,Defense,Pull,,,Ben,5.625,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,0
+2025-10-25 12:30,Fall Easterns,Indiana,42,D,1,0,Defense,D,,,Zac,,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,18
+2025-10-25 12:30,Fall Easterns,Indiana,42,D,1,0,Offense,Catch,Zac,Brady,,,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,27
+2025-10-25 12:30,Fall Easterns,Indiana,42,D,1,0,Offense,Catch,Brady,Bryant,,,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,30
+2025-10-25 12:30,Fall Easterns,Indiana,42,D,1,0,Offense,Goal,Bryant,Brady,,,Bryant,Brady,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,40
+2025-10-25 12:30,Fall Easterns,Indiana,96,D,2,0,Defense,Pull,,,CJ,4.864,Eli,Keaton,CJ,Hudson,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,120
+2025-10-25 12:30,Fall Easterns,Indiana,96,D,2,0,Defense,Throwaway,,,Anonymous,,Eli,Keaton,CJ,Hudson,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,128
+2025-10-25 12:30,Fall Easterns,Indiana,96,D,2,0,Offense,Catch,Libby,Zac,,,Eli,Keaton,CJ,Hudson,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,164
+2025-10-25 12:30,Fall Easterns,Indiana,96,D,2,0,Offense,Catch,Zac,Tanner,,,Eli,Keaton,CJ,Hudson,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,167
+2025-10-25 12:30,Fall Easterns,Indiana,96,D,2,0,Offense,Catch,Tanner,CJ,,,Eli,Keaton,CJ,Hudson,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,190
+2025-10-25 12:30,Fall Easterns,Indiana,96,D,2,0,Offense,Goal,CJ,Zac,,,Eli,Keaton,CJ,Hudson,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,214
+2025-10-25 12:30,Fall Easterns,Indiana,187,D,2,1,Defense,Pull,,,Ben,3.883,Bryant,Brady,Dylan,Josh,Ben,Libby,Zac,Carson,,,,,,,,,,,,,,,,,,,,,296
+2025-10-25 12:30,Fall Easterns,Indiana,187,D,2,1,Defense,D,,,Ben,,Bryant,Brady,Dylan,Josh,Ben,Libby,Zac,Carson,,,,,,,,,,,,,,,,,,,,,355
+2025-10-25 12:30,Fall Easterns,Indiana,187,D,2,1,Offense,Catch,Ben,Zac,,,Bryant,Brady,Dylan,Josh,Ben,Libby,Zac,Carson,,,,,,,,,,,,,,,,,,,,,421
+2025-10-25 12:30,Fall Easterns,Indiana,187,D,2,1,Offense,Catch,Zac,Ben,,,Bryant,Brady,Dylan,Josh,Ben,Libby,Zac,Carson,,,,,,,,,,,,,,,,,,,,,426
+2025-10-25 12:30,Fall Easterns,Indiana,187,D,2,1,Offense,Throwaway,Ben,Anonymous,,,Bryant,Brady,Dylan,Josh,Ben,Libby,Zac,Carson,,,,,,,,,,,,,,,,,,,,,434
+2025-10-25 12:30,Fall Easterns,Indiana,187,D,2,1,Defense,Goal,,,Anonymous,,Bryant,Brady,Dylan,Josh,Ben,Libby,Zac,Carson,,,,,,,,,,,,,,,,,,,,,481
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Reed,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,608
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,616
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Alex,Jackson,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,622
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Throwaway,Jackson,Anonymous,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,631
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Defense,D,,,Alex,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,642
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Alex,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,645
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,650
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Alex,Jackson,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,654
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Jackson,Peter,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,658
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Peter,Zac,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,662
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Zac,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,666
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Conley,Zac,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,670
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Zac,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,675
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Catch,Alex,Jackson,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,678
+2025-10-25 12:30,Fall Easterns,Indiana,80,O,3,1,Offense,Goal,Jackson,Reed,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,686
+2025-10-25 12:30,Fall Easterns,Indiana,60,D,3,2,Defense,Pull,,,Ben,6.768,Dylan,CJ,Hudson,Ben,Roman,Jackson,Carson,,,,,,,,,,,,,,,,,,,,,,797
+2025-10-25 12:30,Fall Easterns,Indiana,60,D,3,2,Defense,Goal,,,Anonymous,,Dylan,CJ,Hudson,Ben,Roman,Jackson,Carson,,,,,,,,,,,,,,,,,,,,,,855
+2025-10-25 12:30,Fall Easterns,Indiana,23,O,4,2,Offense,Catch,Conley,Reed,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,973
+2025-10-25 12:30,Fall Easterns,Indiana,23,O,4,2,Offense,Catch,Reed,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,982
+2025-10-25 12:30,Fall Easterns,Indiana,23,O,4,2,Offense,Catch,Arden,Reed,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,986
+2025-10-25 12:30,Fall Easterns,Indiana,23,O,4,2,Offense,Catch,Reed,Cagle,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,990
+2025-10-25 12:30,Fall Easterns,Indiana,23,O,4,2,Offense,Goal,Cagle,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,994
+2025-10-25 12:30,Fall Easterns,Indiana,56,D,5,2,Defense,Pull,,,CJ,5.06,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1088
+2025-10-25 12:30,Fall Easterns,Indiana,56,D,5,2,Defense,D,,,CJ,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1098
+2025-10-25 12:30,Fall Easterns,Indiana,56,D,5,2,Offense,Catch,Zac,Keaton,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1111
+2025-10-25 12:30,Fall Easterns,Indiana,56,D,5,2,Offense,Catch,Keaton,Roman,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1116
+2025-10-25 12:30,Fall Easterns,Indiana,56,D,5,2,Offense,Catch,Roman,Libby,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1121
+2025-10-25 12:30,Fall Easterns,Indiana,56,D,5,2,Offense,Catch,Libby,Zac,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1124
+2025-10-25 12:30,Fall Easterns,Indiana,56,D,5,2,Offense,Goal,Zac,CJ,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1142
+2025-10-25 12:30,Fall Easterns,Indiana,6,D,5,3,Defense,Pull,,,Josh,6.249,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1302
+2025-10-25 12:30,Fall Easterns,Indiana,6,D,5,3,Defense,Goal,,,Anonymous,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1306
+2025-10-25 12:30,Fall Easterns,Indiana,26,O,6,3,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1452
+2025-10-25 12:30,Fall Easterns,Indiana,26,O,6,3,Offense,Catch,Arden,Peter,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1465
+2025-10-25 12:30,Fall Easterns,Indiana,26,O,6,3,Offense,Catch,Peter,CJ,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1472
+2025-10-25 12:30,Fall Easterns,Indiana,26,O,6,3,Offense,Goal,CJ,Tanner,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1476
+2025-10-25 12:30,Fall Easterns,Indiana,45,D,7,3,Defense,Pull,,,Ben,26.351,Bryant,CJ,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,1632
+2025-10-25 12:30,Fall Easterns,Indiana,45,D,7,3,Defense,D,,,Jackson,,Bryant,CJ,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,1641
+2025-10-25 12:30,Fall Easterns,Indiana,45,D,7,3,Offense,Catch,Ben,Jackson,,,Bryant,CJ,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,1650
+2025-10-25 12:30,Fall Easterns,Indiana,45,D,7,3,Offense,Catch,Jackson,Roman,,,Bryant,CJ,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,1654
+2025-10-25 12:30,Fall Easterns,Indiana,45,D,7,3,Offense,Catch,Roman,Bryant,,,Bryant,CJ,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,1667
+2025-10-25 12:30,Fall Easterns,Indiana,45,D,7,3,Offense,Catch,Bryant,Ben,,,Bryant,CJ,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,1671
+2025-10-25 12:30,Fall Easterns,Indiana,45,D,7,3,Offense,Goal,Ben,CJ,,,Bryant,CJ,Hudson,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,1675
+2025-10-25 12:30,Fall Easterns,Indiana,39,O,8,3,Offense,Catch,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,2373
+2025-10-25 12:30,Fall Easterns,Indiana,39,O,8,3,Offense,Catch,Alex,Jackson,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,2382
+2025-10-25 12:30,Fall Easterns,Indiana,39,O,8,3,Offense,Catch,Jackson,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,2389
+2025-10-25 12:30,Fall Easterns,Indiana,39,O,8,3,Offense,Throwaway,Conley,Anonymous,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,2392
+2025-10-25 12:30,Fall Easterns,Indiana,39,O,8,3,Defense,Throwaway,,,Anonymous,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,2398
+2025-10-25 12:30,Fall Easterns,Indiana,39,O,8,3,Offense,Goal,John P,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,2410
+2025-10-25 12:30,Fall Easterns,Indiana,38,D,8,4,Defense,Pull,,,Josh,4.404,Bryant,Keaton,Josh,Ben,Peter,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2522
+2025-10-25 12:30,Fall Easterns,Indiana,38,D,8,4,Defense,Goal,,,Anonymous,,Bryant,Keaton,Josh,Ben,Peter,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,2558
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Offense,Catch,Conley,Liam,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2719
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Offense,Catch,Liam,Conley,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2729
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Offense,Throwaway,Conley,Anonymous,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2736
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Defense,Throwaway,,,Anonymous,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2744
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Offense,Throwaway,Alex,Anonymous,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2764
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Defense,D,,,Alex,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2773
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Offense,Catch,Alex,Conley,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2787
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Offense,Catch,Conley,Tanner,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2793
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Offense,Catch,Tanner,Reed,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2799
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Offense,Catch,Reed,Conley,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2802
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Offense,Throwaway,Conley,Anonymous,,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2817
+2025-10-25 12:30,Fall Easterns,Indiana,179,O,8,5,Defense,Goal,,,Anonymous,,Alex,Reed,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2896
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Drop,Liam,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3014
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Defense,D,,,Alex,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3058
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3074
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Arden,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3081
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3089
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Arden,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3097
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Alex,Liam,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3103
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Liam,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3107
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Arden,Liam,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3112
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Throwaway,Liam,Anonymous,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3119
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Defense,D,,,Liam,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3126
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Liam,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3129
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Arden,Tanner,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3133
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Tanner,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3137
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Drop,Arden,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3143
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Defense,Throwaway,,,Anonymous,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3168
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Catch,Alex,Cagle,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3186
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Offense,Drop,Cagle,Peter,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3193
+2025-10-25 12:30,Fall Easterns,Indiana,392,O,8,6,Defense,Goal,,,Anonymous,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3404
+2025-10-25 12:30,Fall Easterns,Indiana,52,O,8,7,Offense,Catch,Conley,Alex,,,Alex,Arden,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3572
+2025-10-25 12:30,Fall Easterns,Indiana,52,O,8,7,Offense,Catch,Alex,Conley,,,Alex,Arden,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3582
+2025-10-25 12:30,Fall Easterns,Indiana,52,O,8,7,Offense,Catch,Conley,Alex,,,Alex,Arden,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3586
+2025-10-25 12:30,Fall Easterns,Indiana,52,O,8,7,Offense,Catch,Alex,Arden,,,Alex,Arden,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3590
+2025-10-25 12:30,Fall Easterns,Indiana,52,O,8,7,Offense,Throwaway,Arden,Anonymous,,,Alex,Arden,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3618
+2025-10-25 12:30,Fall Easterns,Indiana,52,O,8,7,Defense,Goal,,,Anonymous,,Alex,Arden,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3622
+2025-10-25 12:30,Fall Easterns,Indiana,87,O,9,7,Offense,Catch,Ben,Tanner,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3747
+2025-10-25 12:30,Fall Easterns,Indiana,87,O,9,7,Offense,Catch,Tanner,Arden,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3759
+2025-10-25 12:30,Fall Easterns,Indiana,87,O,9,7,Offense,Catch,Arden,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3762
+2025-10-25 12:30,Fall Easterns,Indiana,87,O,9,7,Offense,Catch,Conley,Arden,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3792
+2025-10-25 12:30,Fall Easterns,Indiana,87,O,9,7,Offense,Catch,Arden,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3803
+2025-10-25 12:30,Fall Easterns,Indiana,87,O,9,7,Offense,Catch,Conley,Arden,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3807
+2025-10-25 12:30,Fall Easterns,Indiana,87,O,9,7,Offense,Catch,Arden,Alex,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3811
+2025-10-25 12:30,Fall Easterns,Indiana,87,O,9,7,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3814
+2025-10-25 12:30,Fall Easterns,Indiana,87,O,9,7,Offense,Catch,Arden,Conley,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3828
+2025-10-25 12:30,Fall Easterns,Indiana,87,O,9,7,Offense,Goal,Conley,CJ,,,Alex,Arden,CJ,Ben,Conley,Tanner,Zac,,,,,,,,,,,,,,,,,,,,,,3832
+2025-10-25 12:30,Fall Easterns,Indiana,75,D,10,7,Defense,PullOb,,,Ben,,Alex,Ben,Jackson,Tanner,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3928
+2025-10-25 12:30,Fall Easterns,Indiana,75,D,10,7,Defense,Throwaway,,,Anonymous,,Alex,Ben,Jackson,Tanner,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3973
+2025-10-25 12:30,Fall Easterns,Indiana,75,D,10,7,Offense,Catch,Ben,Zac,,,Alex,Ben,Jackson,Tanner,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3992
+2025-10-25 12:30,Fall Easterns,Indiana,75,D,10,7,Offense,Catch,Zac,Cagle,,,Alex,Ben,Jackson,Tanner,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,3995
+2025-10-25 12:30,Fall Easterns,Indiana,75,D,10,7,Offense,Goal,Cagle,Zac,,,Alex,Ben,Jackson,Tanner,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,4001
+2025-10-25 12:30,Fall Easterns,Indiana,20,D,10,8,Defense,PullOb,,,Ben,,Arden,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,4129
+2025-10-25 12:30,Fall Easterns,Indiana,20,D,10,8,Defense,Goal,,,Anonymous,,Arden,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,4147
+2025-10-25 12:30,Fall Easterns,Indiana,23,O,11,8,Offense,Catch,Ben,Jackson,,,Alex,Arden,CJ,Ben,Conley,Jackson,Tanner,,,,,,,,,,,,,,,,,,,,,,4286
+2025-10-25 12:30,Fall Easterns,Indiana,23,O,11,8,Offense,Catch,Jackson,Arden,,,Alex,Arden,CJ,Ben,Conley,Jackson,Tanner,,,,,,,,,,,,,,,,,,,,,,4295
+2025-10-25 12:30,Fall Easterns,Indiana,23,O,11,8,Offense,Catch,Arden,Ben,,,Alex,Arden,CJ,Ben,Conley,Jackson,Tanner,,,,,,,,,,,,,,,,,,,,,,4300
+2025-10-25 12:30,Fall Easterns,Indiana,23,O,11,8,Offense,Goal,Ben,Jackson,,,Alex,Arden,CJ,Ben,Conley,Jackson,Tanner,,,,,,,,,,,,,,,,,,,,,,4307
+2025-10-25 12:30,Fall Easterns,Indiana,66,D,11,9,Defense,Pull,,,Ben,5.491,Bryant,Eli,Keaton,Josh,Ben,Roman,Zac,,,,,,,,,,,,,,,,,,,,,,4431
+2025-10-25 12:30,Fall Easterns,Indiana,66,D,11,9,Defense,Goal,,,Anonymous,,Bryant,Eli,Keaton,Josh,Ben,Roman,Zac,,,,,,,,,,,,,,,,,,,,,,4495
+2025-10-25 12:30,Fall Easterns,Indiana,113,O,12,9,Offense,Catch,Liam,Conley,,,Arden,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4599
+2025-10-25 12:30,Fall Easterns,Indiana,113,O,12,9,Offense,Catch,Conley,CJ,,,Arden,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4608
+2025-10-25 12:30,Fall Easterns,Indiana,113,O,12,9,Offense,Throwaway,CJ,Anonymous,,,Arden,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4611
+2025-10-25 12:30,Fall Easterns,Indiana,113,O,12,9,Defense,D,,,Arden,,Arden,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4665
+2025-10-25 12:30,Fall Easterns,Indiana,113,O,12,9,Offense,Catch,Conley,Liam,,,Arden,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4692
+2025-10-25 12:30,Fall Easterns,Indiana,113,O,12,9,Offense,Catch,Liam,Peter,,,Arden,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4700
+2025-10-25 12:30,Fall Easterns,Indiana,113,O,12,9,Offense,Goal,Peter,Cagle,,,Arden,CJ,Conley,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4710
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Defense,Pull,,,Conley,4.777,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,4838
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Defense,Throwaway,,,Anonymous,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,4851
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Catch,Conley,Josh,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,4910
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Throwaway,Josh,Anonymous,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,4914
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Defense,Throwaway,,,Anonymous,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,4918
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Throwaway,Josh,Anonymous,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5118
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Defense,D,,,Bryant,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5122
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Catch,Josh,Conley,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5125
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Throwaway,Conley,Anonymous,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5167
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Defense,D,,,Libby,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5191
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Throwaway,Conley,Anonymous,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5217
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Defense,Throwaway,,,Anonymous,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5231
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Catch,Libby,Conley,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5255
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Catch,Conley,Keaton,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5259
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Throwaway,Keaton,Anonymous,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5263
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Defense,Throwaway,,,Anonymous,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5267
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Catch,Conley,Josh,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5285
+2025-10-25 12:30,Fall Easterns,Indiana,456,D,13,9,Offense,Goal,Josh,Dylan,,,Bryant,Dylan,Keaton,Josh,Conley,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,5292
+2025-10-26 12:34,Fall Easterns,Emory,19,D,0,1,Defense,Pull,,,Josh,4.063,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,0
+2025-10-26 12:34,Fall Easterns,Emory,19,D,0,1,Defense,Goal,,,Anonymous,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,17
+2025-10-26 12:34,Fall Easterns,Emory,77,O,0,2,Offense,Catch,Alex,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,128
+2025-10-26 12:34,Fall Easterns,Emory,77,O,0,2,Offense,Catch,Conley,Zac,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,136
+2025-10-26 12:34,Fall Easterns,Emory,77,O,0,2,Offense,Catch,Zac,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,143
+2025-10-26 12:34,Fall Easterns,Emory,77,O,0,2,Offense,Catch,Alex,John P,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,147
+2025-10-26 12:34,Fall Easterns,Emory,77,O,0,2,Offense,Throwaway,John P,Anonymous,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,158
+2025-10-26 12:34,Fall Easterns,Emory,77,O,0,2,Defense,Goal,,,Anonymous,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,203
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Liam,Reed,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,304
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Reed,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,313
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Conley,Cagle,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,318
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Cagle,John P,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,322
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,John P,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,325
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Throwaway,Arden,Anonymous,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,334
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Defense,D,,,John P,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,375
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Conley,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,428
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Arden,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,433
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Tanner,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,439
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Arden,Liam,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,443
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Liam,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,447
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Arden,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,451
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Tanner,John P,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,455
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,John P,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,459
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Tanner,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,463
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Arden,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,466
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Tanner,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,469
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Conley,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,475
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Catch,Arden,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,482
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Offense,Throwaway,Tanner,Anonymous,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,489
+2025-10-26 12:34,Fall Easterns,Emory,210,O,0,3,Defense,Goal,,,Anonymous,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,512
+2025-10-26 12:34,Fall Easterns,Emory,86,O,1,3,Offense,Catch,Libby,Alex,,,Bryant,Alex,Keaton,Jackson,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,618
+2025-10-26 12:34,Fall Easterns,Emory,86,O,1,3,Offense,Throwaway,Alex,Anonymous,,,Bryant,Alex,Keaton,Jackson,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,628
+2025-10-26 12:34,Fall Easterns,Emory,86,O,1,3,Defense,Throwaway,,,Anonymous,,Bryant,Alex,Keaton,Jackson,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,659
+2025-10-26 12:34,Fall Easterns,Emory,86,O,1,3,Offense,Catch,Zac,Jackson,,,Bryant,Alex,Keaton,Jackson,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,672
+2025-10-26 12:34,Fall Easterns,Emory,86,O,1,3,Offense,Catch,Jackson,Libby,,,Bryant,Alex,Keaton,Jackson,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,680
+2025-10-26 12:34,Fall Easterns,Emory,86,O,1,3,Offense,Catch,Libby,Zac,,,Bryant,Alex,Keaton,Jackson,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,684
+2025-10-26 12:34,Fall Easterns,Emory,86,O,1,3,Offense,Catch,Zac,Cagle,,,Bryant,Alex,Keaton,Jackson,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,688
+2025-10-26 12:34,Fall Easterns,Emory,86,O,1,3,Offense,Catch,Cagle,Alex,,,Bryant,Alex,Keaton,Jackson,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,692
+2025-10-26 12:34,Fall Easterns,Emory,86,O,1,3,Offense,Catch,Alex,Zac,,,Bryant,Alex,Keaton,Jackson,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,698
+2025-10-26 12:34,Fall Easterns,Emory,86,O,1,3,Offense,Goal,Zac,Jackson,,,Bryant,Alex,Keaton,Jackson,Libby,Zac,Cagle,,,,,,,,,,,,,,,,,,,,,,702
+2025-10-26 12:34,Fall Easterns,Emory,35,D,2,3,Defense,Pull,,,CJ,4.466,Dylan,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,816
+2025-10-26 12:34,Fall Easterns,Emory,35,D,2,3,Defense,Throwaway,,,Anonymous,,Dylan,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,820
+2025-10-26 12:34,Fall Easterns,Emory,35,D,2,3,Offense,Catch,Ben,Jackson,,,Dylan,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,845
+2025-10-26 12:34,Fall Easterns,Emory,35,D,2,3,Offense,Goal,Jackson,CJ,,,Dylan,CJ,Ben,Roman,Jackson,Zac,Carson,,,,,,,,,,,,,,,,,,,,,,849
+2025-10-26 12:34,Fall Easterns,Emory,27,D,3,3,Defense,Pull,,,CJ,4.855,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,982
+2025-10-26 12:34,Fall Easterns,Emory,27,D,3,3,Defense,Throwaway,,,Anonymous,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,986
+2025-10-26 12:34,Fall Easterns,Emory,27,D,3,3,Offense,Goal,CJ,Tanner,,,Eli,Keaton,CJ,Roman,Tanner,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,1007
+2025-10-26 12:34,Fall Easterns,Emory,13,D,3,4,Defense,Pull,,,Josh,2.549,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1113
+2025-10-26 12:34,Fall Easterns,Emory,13,D,3,4,Defense,Goal,,,Anonymous,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1124
+2025-10-26 12:34,Fall Easterns,Emory,117,O,3,5,Offense,Catch,Arden,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1227
+2025-10-26 12:34,Fall Easterns,Emory,117,O,3,5,Offense,Catch,Alex,Tanner,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1245
+2025-10-26 12:34,Fall Easterns,Emory,117,O,3,5,Offense,Catch,Tanner,CJ,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1257
+2025-10-26 12:34,Fall Easterns,Emory,117,O,3,5,Offense,Throwaway,CJ,Anonymous,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1261
+2025-10-26 12:34,Fall Easterns,Emory,117,O,3,5,Defense,Throwaway,,,Anonymous,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1290
+2025-10-26 12:34,Fall Easterns,Emory,117,O,3,5,Offense,Catch,Alex,CJ,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1300
+2025-10-26 12:34,Fall Easterns,Emory,117,O,3,5,Offense,Throwaway,CJ,Anonymous,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1311
+2025-10-26 12:34,Fall Easterns,Emory,117,O,3,5,Defense,Goal,,,Anonymous,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,1342
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Catch,Alex,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1450
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Catch,Conley,Zac,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1458
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Catch,Zac,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1464
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Drop,Alex,Zac,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1474
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Defense,D,,,Conley,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1500
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Catch,Conley,John P,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1509
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Catch,John P,Peter,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1512
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Catch,Peter,Reed,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1515
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Throwaway,Reed,Anonymous,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1523
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Defense,Throwaway,,,Anonymous,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1557
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Catch,John P,Zac,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1581
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Catch,Zac,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1594
+2025-10-26 12:34,Fall Easterns,Emory,156,O,4,5,Offense,Goal,Conley,Alex,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,1604
+2025-10-26 12:34,Fall Easterns,Emory,117,D,4,6,Defense,PullOb,,,Josh,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1825
+2025-10-26 12:34,Fall Easterns,Emory,117,D,4,6,Defense,D,,,Keaton,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1853
+2025-10-26 12:34,Fall Easterns,Emory,117,D,4,6,Offense,Catch,Keaton,Ben,,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1858
+2025-10-26 12:34,Fall Easterns,Emory,117,D,4,6,Offense,Catch,Ben,Dylan,,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1871
+2025-10-26 12:34,Fall Easterns,Emory,117,D,4,6,Offense,Catch,Dylan,Keaton,,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1875
+2025-10-26 12:34,Fall Easterns,Emory,117,D,4,6,Offense,Catch,Keaton,Ben,,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1879
+2025-10-26 12:34,Fall Easterns,Emory,117,D,4,6,Offense,Throwaway,Ben,Anonymous,,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1882
+2025-10-26 12:34,Fall Easterns,Emory,117,D,4,6,Defense,Goal,,,Anonymous,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,1940
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Liam,Conley,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2050
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Conley,Cagle,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2059
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Cagle,Liam,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2063
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Liam,Conley,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2067
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Conley,Liam,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2071
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Liam,Tanner,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2075
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Tanner,Conley,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2079
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Conley,CJ,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2083
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,CJ,Conley,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2089
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Throwaway,Conley,Anonymous,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2094
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Defense,Throwaway,,,Anonymous,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2139
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Arden,Cagle,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2169
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Cagle,Arden,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2173
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,Arden,John P,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2207
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Catch,John P,CJ,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2234
+2025-10-26 12:34,Fall Easterns,Emory,190,O,5,6,Offense,Goal,CJ,Arden,,,Arden,CJ,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,2238
+2025-10-26 12:34,Fall Easterns,Emory,46,D,6,6,Defense,Pull,,,Ben,5.231,Bryant,Dylan,CJ,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,2292
+2025-10-26 12:34,Fall Easterns,Emory,46,D,6,6,Defense,D,,,Bryant,,Bryant,Dylan,CJ,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,2310
+2025-10-26 12:34,Fall Easterns,Emory,46,D,6,6,Offense,Catch,Ben,CJ,,,Bryant,Dylan,CJ,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,2330
+2025-10-26 12:34,Fall Easterns,Emory,46,D,6,6,Offense,Goal,CJ,Zac,,,Bryant,Dylan,CJ,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,2336
+2025-10-26 12:34,Fall Easterns,Emory,61,D,6,7,Defense,Pull,,,CJ,6.182,Bryant,Eli,Keaton,CJ,Roman,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,2441
+2025-10-26 12:34,Fall Easterns,Emory,61,D,6,7,Defense,Goal,,,Anonymous,,Bryant,Eli,Keaton,CJ,Roman,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,2500
+2025-10-26 12:34,Fall Easterns,Emory,52,O,7,7,Offense,Catch,Liam,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3133
+2025-10-26 12:34,Fall Easterns,Emory,52,O,7,7,Offense,Catch,Conley,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3142
+2025-10-26 12:34,Fall Easterns,Emory,52,O,7,7,Offense,Catch,Tanner,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3148
+2025-10-26 12:34,Fall Easterns,Emory,52,O,7,7,Offense,Catch,Conley,Tanner,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3154
+2025-10-26 12:34,Fall Easterns,Emory,52,O,7,7,Offense,Catch,Tanner,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3161
+2025-10-26 12:34,Fall Easterns,Emory,52,O,7,7,Offense,Catch,Conley,Arden,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3168
+2025-10-26 12:34,Fall Easterns,Emory,52,O,7,7,Offense,Catch,Arden,John P,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3171
+2025-10-26 12:34,Fall Easterns,Emory,52,O,7,7,Offense,Catch,John P,Reed,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3175
+2025-10-26 12:34,Fall Easterns,Emory,52,O,7,7,Offense,Catch,Reed,Liam,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3179
+2025-10-26 12:34,Fall Easterns,Emory,52,O,7,7,Offense,Goal,Liam,Cagle,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3183
+2025-10-26 12:34,Fall Easterns,Emory,110,D,7,8,Defense,Pull,,,Josh,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3281
+2025-10-26 12:34,Fall Easterns,Emory,110,D,7,8,Defense,Goal,,,Anonymous,,Bryant,Dylan,Keaton,Josh,Ben,Libby,Carson,,,,,,,,,,,,,,,,,,,,,,3389
+2025-10-26 12:34,Fall Easterns,Emory,62,O,8,8,Offense,Catch,Arden,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3500
+2025-10-26 12:34,Fall Easterns,Emory,62,O,8,8,Offense,Catch,Alex,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3509
+2025-10-26 12:34,Fall Easterns,Emory,62,O,8,8,Offense,Catch,Arden,CJ,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3513
+2025-10-26 12:34,Fall Easterns,Emory,62,O,8,8,Offense,Catch,CJ,Tanner,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3517
+2025-10-26 12:34,Fall Easterns,Emory,62,O,8,8,Offense,Catch,Tanner,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3521
+2025-10-26 12:34,Fall Easterns,Emory,62,O,8,8,Offense,Catch,Alex,Peter,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3525
+2025-10-26 12:34,Fall Easterns,Emory,62,O,8,8,Offense,Throwaway,Peter,Anonymous,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3529
+2025-10-26 12:34,Fall Easterns,Emory,62,O,8,8,Defense,Throwaway,,,Anonymous,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3555
+2025-10-26 12:34,Fall Easterns,Emory,62,O,8,8,Offense,Goal,Alex,Peter,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,3560
+2025-10-26 12:34,Fall Easterns,Emory,118,D,8,9,Defense,Pull,,,Ben,7.423,Bryant,Dylan,CJ,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,3675
+2025-10-26 12:34,Fall Easterns,Emory,118,D,8,9,Defense,D,,,CJ,,Bryant,Dylan,CJ,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,3771
+2025-10-26 12:34,Fall Easterns,Emory,118,D,8,9,Offense,Callahan,Ben,Anonymous,,,Bryant,Dylan,CJ,Ben,Roman,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,3791
+2025-10-26 12:34,Fall Easterns,Emory,47,O,8,10,Offense,Catch,Alex,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3891
+2025-10-26 12:34,Fall Easterns,Emory,47,O,8,10,Offense,Catch,Conley,Reed,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3902
+2025-10-26 12:34,Fall Easterns,Emory,47,O,8,10,Offense,Catch,Reed,Conley,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3906
+2025-10-26 12:34,Fall Easterns,Emory,47,O,8,10,Offense,Throwaway,Conley,Anonymous,,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3912
+2025-10-26 12:34,Fall Easterns,Emory,47,O,8,10,Defense,Goal,,,Anonymous,,Alex,Reed,John P,Conley,Jackson,Peter,Zac,,,,,,,,,,,,,,,,,,,,,,3936
+2025-10-26 12:34,Fall Easterns,Emory,45,O,8,11,Offense,Catch,Reed,Liam,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4031
+2025-10-26 12:34,Fall Easterns,Emory,45,O,8,11,Offense,Catch,Liam,Conley,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4041
+2025-10-26 12:34,Fall Easterns,Emory,45,O,8,11,Offense,Drop,Conley,John P,,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4046
+2025-10-26 12:34,Fall Easterns,Emory,45,O,8,11,Defense,Goal,,,Anonymous,,Reed,Arden,John P,Conley,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,4074
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Catch,Zac,Ben,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4323
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Catch,Ben,Bryant,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4336
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Catch,Bryant,Libby,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4340
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Catch,Libby,CJ,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4344
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Catch,CJ,Bryant,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4348
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Catch,Bryant,Zac,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4352
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Throwaway,Zac,Anonymous,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4355
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Defense,Throwaway,,,Anonymous,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4422
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Throwaway,CJ,Anonymous,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4429
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Defense,D,,,Bryant,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4460
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Throwaway,Ben,Anonymous,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4470
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Defense,D,,,CJ,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4485
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Catch,CJ,Libby,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4490
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Catch,Libby,Ben,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4494
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Catch,Ben,Bryant,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4498
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Catch,Bryant,Ben,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4502
+2025-10-26 12:34,Fall Easterns,Emory,195,O,9,11,Offense,Goal,Ben,Arden,,,Bryant,Arden,CJ,John P,Ben,Libby,Zac,,,,,,,,,,,,,,,,,,,,,,4516
+2025-10-26 12:34,Fall Easterns,Emory,69,D,10,11,Defense,Pull,,,Ben,,Bryant,Keaton,Arden,CJ,Ben,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4603
+2025-10-26 12:34,Fall Easterns,Emory,69,D,10,11,Defense,D,,,Ben,,Bryant,Keaton,Arden,CJ,Ben,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4651
+2025-10-26 12:34,Fall Easterns,Emory,69,D,10,11,Offense,Catch,Ben,Jackson,,,Bryant,Keaton,Arden,CJ,Ben,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4656
+2025-10-26 12:34,Fall Easterns,Emory,69,D,10,11,Offense,Catch,Jackson,Bryant,,,Bryant,Keaton,Arden,CJ,Ben,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4661
+2025-10-26 12:34,Fall Easterns,Emory,69,D,10,11,Offense,Goal,Bryant,Ben,,,Bryant,Keaton,Arden,CJ,Ben,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4670
+2025-10-26 12:34,Fall Easterns,Emory,78,D,11,11,Defense,Pull,,,Ben,,Bryant,Keaton,Arden,CJ,Ben,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4776
+2025-10-26 12:34,Fall Easterns,Emory,78,D,11,11,Defense,Throwaway,,,Anonymous,,Bryant,Keaton,Arden,CJ,Ben,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4842
+2025-10-26 12:34,Fall Easterns,Emory,78,D,11,11,Offense,Catch,Ben,Arden,,,Bryant,Keaton,Arden,CJ,Ben,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4847
+2025-10-26 12:34,Fall Easterns,Emory,78,D,11,11,Offense,Goal,Arden,Keaton,,,Bryant,Keaton,Arden,CJ,Ben,Jackson,Zac,,,,,,,,,,,,,,,,,,,,,,4852
+2025-10-26 12:34,Fall Easterns,Emory,31,D,11,12,Defense,Pull,,,Ben,,Arden,CJ,Josh,Ben,Roman,Tanner,Libby,,,,,,,,,,,,,,,,,,,,,,4976
+2025-10-26 12:34,Fall Easterns,Emory,31,D,11,12,Defense,Goal,,,Anonymous,,Arden,CJ,Josh,Ben,Roman,Tanner,Libby,,,,,,,,,,,,,,,,,,,,,,5005
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Catch,Liam,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5102
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Catch,Alex,Cagle,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5110
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Catch,Cagle,Tanner,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5114
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Catch,Tanner,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5119
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Catch,Arden,Liam,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5123
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Catch,Liam,Arden,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5132
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Catch,Arden,Liam,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5136
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Catch,Liam,Cagle,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5140
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Catch,Cagle,Alex,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5144
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Catch,Alex,Liam,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5148
+2025-10-26 12:34,Fall Easterns,Emory,52,O,12,12,Offense,Goal,Liam,CJ,,,Alex,Arden,CJ,Peter,Tanner,Liam,Cagle,,,,,,,,,,,,,,,,,,,,,,5152
+2025-10-26 12:34,Fall Easterns,Emory,121,D,12,13,Defense,Pull,,,Ben,3.019,Bryant,Alex,Arden,CJ,John P,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,5280
+2025-10-26 12:34,Fall Easterns,Emory,121,D,12,13,Defense,D,,,Ben,,Bryant,Alex,Arden,CJ,John P,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,5319
+2025-10-26 12:34,Fall Easterns,Emory,121,D,12,13,Offense,Catch,Ben,CJ,,,Bryant,Alex,Arden,CJ,John P,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,5325
+2025-10-26 12:34,Fall Easterns,Emory,121,D,12,13,Offense,Catch,CJ,Arden,,,Bryant,Alex,Arden,CJ,John P,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,5333
+2025-10-26 12:34,Fall Easterns,Emory,121,D,12,13,Offense,Catch,Arden,Ben,,,Bryant,Alex,Arden,CJ,John P,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,5337
+2025-10-26 12:34,Fall Easterns,Emory,121,D,12,13,Offense,Catch,Ben,Arden,,,Bryant,Alex,Arden,CJ,John P,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,5341
+2025-10-26 12:34,Fall Easterns,Emory,121,D,12,13,Offense,Drop,Arden,Bryant,,,Bryant,Alex,Arden,CJ,John P,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,5363
+2025-10-26 12:34,Fall Easterns,Emory,121,D,12,13,Defense,Goal,,,Anonymous,,Bryant,Alex,Arden,CJ,John P,Ben,Zac,,,,,,,,,,,,,,,,,,,,,,5399
