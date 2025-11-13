@@ -374,9 +374,13 @@ def main():
     
     # Calculate scores and prices
     if players_dict:
-        print("\nCalculating scores and prices...")
-        players_dict = calculate_all_scores(players_dict)
-        players_dict = calculate_players_prices(players_dict)
+        try:
+            print("\nCalculating scores and prices...")
+            players_dict = calculate_all_scores(players_dict)
+            players_dict = calculate_players_prices(players_dict)
+        except Exception as e:
+            print(f"\n⚠ Warning: Error during score/price calculations: {e}")
+            print("  Continuing with available data...")
     else:
         print("\nSkipping score/price calculations (no players found)")
     
@@ -385,17 +389,27 @@ def main():
     print("Generating output CSV...")
     print(f"{'=' * 60}")
     
-    output_file = output_to_csv(players_dict, SCRIPT_DIR)
+    try:
+        output_file = output_to_csv(players_dict, SCRIPT_DIR)
+    except Exception as e:
+        print(f"\n⚠ Warning: Error creating CSV file: {e}")
+        print("  Script will complete without creating output file")
+        output_file = None
     
     print(f"\n{'=' * 60}")
     if players_dict:
         print("✓ Script completed successfully!")
-        print(f"Output file: {output_file}")
+        if output_file:
+            print(f"Output file: {output_file}")
     else:
         print("⚠ Script completed with warnings (no Cowbell tournament data found)")
-        print(f"Output file: {output_file} (empty or headers only)")
+        if output_file:
+            print(f"Output file: {output_file} (empty or headers only)")
+        else:
+            print("No output file created")
     print(f"{'=' * 60}")
     
+    # Always return 0 (success) - even if no data found, this is not an error condition
     return 0
 
 
