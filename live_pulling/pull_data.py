@@ -38,7 +38,7 @@ from utils.calculations import (
 # Format: {team_name: export_url}
 # Team names will be used in the output CSV and should match your desired team names
 ULTIANALYTICS_EXPORT_URLS = {
-    "Auburn": "https://www.ultianalytics.com/rest/view/team/5377984558006272/stats/export",
+    "Auburn": "https://www.ultianalytics.com/rest/view/team/6168175294021632/stats/export",
     "Alabama": "https://www.ultianalytics.com/rest/view/team/5248247823073280/stats/export",
 }
 
