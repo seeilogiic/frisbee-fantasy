@@ -28,4 +28,8 @@ jobs:
       env:
         SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
         SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        GOOGLE_SHEETS_CREDENTIALS_JSON: ${{ secrets.GOOGLE_SHEETS_CREDENTIALS_JSON }}
+        GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+        GOOGLE_SHEET_WORKSHEET_NAME: ${{ secrets.GOOGLE_SHEET_WORKSHEET_NAME }}
+      # Note: SUPABASE_URL and SUPABASE_KEY are optional - script will skip Supabase updates if not provided
 

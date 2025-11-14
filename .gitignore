@@ -23,6 +23,16 @@ ENV/
 .env
 .env.local
 
+# Credentials files (Google service account, etc.)
+*credentials*.json
+*service-account*.json
+pullingfilename-*.json
+*.pem
+*.key
+credentials.json
+service-account.json
+google-credentials.json
+
 # Distribution / packaging
 build/
 dist/
