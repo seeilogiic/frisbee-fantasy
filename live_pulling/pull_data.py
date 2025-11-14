@@ -18,6 +18,7 @@ import sys
 import csv
 from pathlib import Path
 from io import StringIO
+from typing import Optional
 import requests
 from supabase import create_client, Client
 import gspread
@@ -27,11 +28,16 @@ from dotenv import load_dotenv
 # from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
 # Load environment variables from .env file in the project root
-project_root = Path(__file__).parent.parent
-load_dotenv(project_root / ".env")
+# pull_data.py is in live_pulling/, so go up one level to get project root
+# Using resolve() ensures we get absolute paths regardless of current working directory
+project_root = Path(__file__).resolve().parent.parent
+env_path = project_root / ".env"
+load_dotenv(env_path)
+# Note: If .env file doesn't exist, load_dotenv will silently continue
+# Environment variables can still be set manually or via system environment
 
 # Add scripts directory to path to import calculation functions
-scripts_dir = Path(__file__).parent.parent / "scripts"
+scripts_dir = Path(__file__).resolve().parent.parent / "scripts"
 sys.path.insert(0, str(scripts_dir))
 
 from utils.calculations import (
@@ -55,24 +61,22 @@ TOURNAMENT_SEARCH_TERM = "cow"  # Will match: Cowbell, cowbell, Cowbell2025, ala
 # Hardcoded tournament name for Supabase
 TOURNAMENT_NAME = "Cowbell"
 
-def get_supabase_client() -> Client:
+def get_supabase_client() -> Optional[Client]:
     """
     Initialize and return Supabase client using environment variables.
     
-    Requires:
+    Optional:
         SUPABASE_URL: Your Supabase project URL
         SUPABASE_KEY: Your Supabase service role key (for full access)
     
     Returns:
-        Supabase client instance
+        Supabase client instance, or None if credentials are not provided
     """
     supabase_url = os.getenv("SUPABASE_URL")
     supabase_key = os.getenv("SUPABASE_KEY")
     
     if not supabase_url or not supabase_key:
-        raise ValueError(
-            "Missing Supabase credentials. Please set SUPABASE_URL and SUPABASE_KEY environment variables."
-        )
+        return None
     
     return create_client(supabase_url, supabase_key)
 
@@ -270,6 +274,7 @@ def get_google_sheets_client():
     
     Requires:
         GOOGLE_SHEETS_CREDENTIALS: Path to JSON file with service account credentials
+                                   (can be absolute path or relative to project root)
         OR
         GOOGLE_SHEETS_CREDENTIALS_JSON: JSON string with service account credentials
     
@@ -281,9 +286,15 @@ def get_google_sheets_client():
     
     if credentials_path:
         # Use credentials file path
+        # If path is relative, resolve it relative to project root
+        creds_path = Path(credentials_path)
+        if not creds_path.is_absolute():
+            # Resolve relative to project root (same level as .env file)
+            creds_path = project_root / creds_path
+        
         scope = ['https://spreadsheets.google.com/feeds',
                  'https://www.googleapis.com/auth/drive']
-        creds = Credentials.from_service_account_file(credentials_path, scopes=scope)
+        creds = Credentials.from_service_account_file(str(creds_path), scopes=scope)
     elif credentials_json:
         # Use credentials JSON string
         import json
@@ -301,14 +312,14 @@ def get_google_sheets_client():
     return gspread.authorize(creds)
 
 
-def output_to_google_sheets(players_dict, sheet_id=None, worksheet_name="Sheet1"):
+def output_to_google_sheets(players_dict, sheet_id=None, worksheet_name=None):
     """
     Write player stats and scores to Google Sheets.
     
     Args:
         players_dict: Dictionary of players data
         sheet_id: Google Sheet ID (from URL or env var GOOGLE_SHEET_ID)
-        worksheet_name: Name of the worksheet to write to (default: "Sheet1")
+        worksheet_name: Name of the worksheet to write to (defaults to env var GOOGLE_SHEET_WORKSHEET_NAME or "Sheet1")
         
     Returns:
         Number of rows written (including header)
@@ -322,6 +333,10 @@ def output_to_google_sheets(players_dict, sheet_id=None, worksheet_name="Sheet1"
             print("\n⚠ Warning: No Google Sheet ID provided. Skipping Google Sheets update.")
             print("  Set GOOGLE_SHEET_ID environment variable or pass sheet_id parameter")
             return 0
+        
+        # Get worksheet name from parameter, environment variable, or default to "Sheet1"
+        if not worksheet_name:
+            worksheet_name = os.getenv("GOOGLE_SHEET_WORKSHEET_NAME", "Sheet1")
         
         client = get_google_sheets_client()
     except ValueError as e:
@@ -411,12 +426,12 @@ def output_to_supabase(players_dict, tournament_name=TOURNAMENT_NAME):
         tournament_name: Tournament name to use (defaults to "Cowbell")
         
     Returns:
-        Number of records updated/inserted
+        Number of records updated/inserted (0 if Supabase is not configured)
     """
-    try:
-        supabase = get_supabase_client()
-    except ValueError as e:
-        print(f"\nError: {e}")
+    supabase = get_supabase_client()
+    if not supabase:
+        print("\n⚠ Info: Supabase credentials not provided. Skipping Supabase update.")
+        print("  Set SUPABASE_URL and SUPABASE_KEY environment variables to enable Supabase updates")
         return 0
     
     if not players_dict:
@@ -541,7 +556,6 @@ def main():
     
     if not players_dict:
         print(f"\n⚠ Warning: No players found with tournaments containing '{TOURNAMENT_SEARCH_TERM}'")
-        print(f"  No data will be uploaded to Supabase")
     
     # Calculate scores and prices
     if players_dict:
@@ -555,18 +569,26 @@ def main():
     else:
         print("\nSkipping score/price calculations (no players found)")
     
-    # Update Supabase
-    print(f"\n{'=' * 60}")
-    print(f"Updating Supabase live_scores table for tournament '{TOURNAMENT_NAME}'...")
-    print(f"{'=' * 60}")
+    # Update Supabase (optional - only if credentials are provided)
+    records_count = 0
+    supabase_configured = bool(os.getenv("SUPABASE_URL") and os.getenv("SUPABASE_KEY"))
     
-    try:
-        records_count = output_to_supabase(players_dict, TOURNAMENT_NAME)
-    except Exception as e:
-        print(f"\n⚠ Warning: Error updating Supabase: {e}")
-        import traceback
-        traceback.print_exc()
-        records_count = 0
+    if supabase_configured:
+        print(f"\n{'=' * 60}")
+        print(f"Updating Supabase live_scores table for tournament '{TOURNAMENT_NAME}'...")
+        print(f"{'=' * 60}")
+        
+        try:
+            records_count = output_to_supabase(players_dict, TOURNAMENT_NAME)
+        except Exception as e:
+            print(f"\n⚠ Warning: Error updating Supabase: {e}")
+            import traceback
+            traceback.print_exc()
+            records_count = 0
+    else:
+        print(f"\n{'=' * 60}")
+        print("Skipping Supabase update (credentials not provided)")
+        print(f"{'=' * 60}")
     
     # Update Google Sheets
     print(f"\n{'=' * 60}")
@@ -582,15 +604,14 @@ def main():
         sheets_rows = 0
     
     print(f"\n{'=' * 60}")
-    if players_dict and records_count > 0:
+    if players_dict:
         print("✓ Script completed successfully!")
-        print(f"  Updated {records_count} record(s) in Supabase for tournament '{TOURNAMENT_NAME}'")
+        if supabase_configured and records_count > 0:
+            print(f"  Updated {records_count} record(s) in Supabase for tournament '{TOURNAMENT_NAME}'")
         if sheets_rows > 0:
             print(f"  Updated {sheets_rows - 1} player record(s) in Google Sheets")
-    elif players_dict:
-        print("⚠ Script completed with warnings (no records uploaded to Supabase)")
-        if sheets_rows > 0:
-            print(f"  Updated {sheets_rows - 1} player record(s) in Google Sheets")
+        if not supabase_configured and sheets_rows == 0:
+            print("  ⚠ Warning: No data was written (check Google Sheets configuration)")
     else:
         print("⚠ Script completed with warnings (no Cowbell tournament data found)")
     print(f"{'=' * 60}")

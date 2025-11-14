@@ -58,22 +58,27 @@ You have three options for providing credentials:
 1. Create a `.env` file in the project root directory (same level as `live_pulling/` folder)
 2. Add your configuration:
    ```bash
-   # Supabase Configuration
-   SUPABASE_URL=your_supabase_project_url_here
-   SUPABASE_KEY=your_supabase_service_role_key_here
+   # Supabase Configuration (optional - only needed if using Supabase)
+   # SUPABASE_URL=your_supabase_project_url_here
+   # SUPABASE_KEY=your_supabase_service_role_key_here
    
    # Google Sheets Configuration
-   # Option 1: Use credentials file path
-   GOOGLE_SHEETS_CREDENTIALS=/path/to/your/credentials.json
+   # Option 1: Use credentials file path (can be absolute or relative to project root)
+   GOOGLE_SHEETS_CREDENTIALS=pullingfilename-c0ffde6bef99.json
+   # Or use absolute path: GOOGLE_SHEETS_CREDENTIALS=/path/to/your/credentials.json
    
    # Option 2: Use credentials JSON string (paste entire JSON as one line)
    # GOOGLE_SHEETS_CREDENTIALS_JSON={"type":"service_account","project_id":"...","private_key":"...","client_email":"..."}
    
    # Google Sheet ID
    GOOGLE_SHEET_ID=your_google_sheet_id_here
+   
+   # Google Sheet Worksheet Name (optional - defaults to "Sheet1" if not set)
+   GOOGLE_SHEET_WORKSHEET_NAME=Sheet1
    ```
 3. The script will automatically load these variables from the `.env` file
 4. **Important:** The `.env` file is already in `.gitignore`, so it won't be committed to git
+5. **Worksheet Name:** If you don't set `GOOGLE_SHEET_WORKSHEET_NAME`, it will default to "Sheet1". The script will create the worksheet if it doesn't exist.
 
 ### Option B: Using Environment Variables Directly
 
@@ -124,9 +129,17 @@ If you're using GitHub Actions (which is already configured in `.github/workflow
    - Value: Your Google Sheet ID (from Step 3)
    - Example: `1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms`
 
-4. Make sure you also have these existing secrets (for Supabase):
-   - `SUPABASE_URL`
-   - `SUPABASE_KEY`
+   **Secret 3: `GOOGLE_SHEET_WORKSHEET_NAME` (Optional)**
+   - Name: `GOOGLE_SHEET_WORKSHEET_NAME`
+   - Value: Name of the worksheet (tab) to write to (defaults to "Sheet1" if not set)
+   - Example: `Player Stats` or `Sheet1`
+   - **Note:** This is optional. If you don't set it, it will default to "Sheet1"
+
+4. Optional secrets (for Supabase - only needed if you're using Supabase):
+   - `SUPABASE_URL` (optional)
+   - `SUPABASE_KEY` (optional)
+   
+   **Note:** If you don't set Supabase secrets, the script will skip Supabase updates and only update Google Sheets.
 
 **Important Notes:**
 - The `GOOGLE_SHEETS_CREDENTIALS_JSON` secret must contain the **entire JSON file** as a single string
