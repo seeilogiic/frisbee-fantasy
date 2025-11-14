@@ -20,8 +20,15 @@ from pathlib import Path
 from io import StringIO
 import requests
 from supabase import create_client, Client
+import gspread
+from google.oauth2.service_account import Credentials
+from dotenv import load_dotenv
 # Playwright import kept for potential future use, but not currently needed
 # from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+
+# Load environment variables from .env file in the project root
+project_root = Path(__file__).parent.parent
+load_dotenv(project_root / ".env")
 
 # Add scripts directory to path to import calculation functions
 scripts_dir = Path(__file__).parent.parent / "scripts"
@@ -257,6 +264,143 @@ def filter_players_for_cowbell(players_dict):
     return filtered_dict
 
 
+def get_google_sheets_client():
+    """
+    Initialize and return Google Sheets client using service account credentials.
+    
+    Requires:
+        GOOGLE_SHEETS_CREDENTIALS: Path to JSON file with service account credentials
+        OR
+        GOOGLE_SHEETS_CREDENTIALS_JSON: JSON string with service account credentials
+    
+    Returns:
+        Google Sheets client instance
+    """
+    credentials_path = os.getenv("GOOGLE_SHEETS_CREDENTIALS")
+    credentials_json = os.getenv("GOOGLE_SHEETS_CREDENTIALS_JSON")
+    
+    if credentials_path:
+        # Use credentials file path
+        scope = ['https://spreadsheets.google.com/feeds',
+                 'https://www.googleapis.com/auth/drive']
+        creds = Credentials.from_service_account_file(credentials_path, scopes=scope)
+    elif credentials_json:
+        # Use credentials JSON string
+        import json
+        scope = ['https://spreadsheets.google.com/feeds',
+                 'https://www.googleapis.com/auth/drive']
+        creds_dict = json.loads(credentials_json)
+        creds = Credentials.from_service_account_info(creds_dict, scopes=scope)
+    else:
+        raise ValueError(
+            "Missing Google Sheets credentials. Please set GOOGLE_SHEETS_CREDENTIALS "
+            "(path to JSON file) or GOOGLE_SHEETS_CREDENTIALS_JSON (JSON string) "
+            "environment variable."
+        )
+    
+    return gspread.authorize(creds)
+
+
+def output_to_google_sheets(players_dict, sheet_id=None, worksheet_name="Sheet1"):
+    """
+    Write player stats and scores to Google Sheets.
+    
+    Args:
+        players_dict: Dictionary of players data
+        sheet_id: Google Sheet ID (from URL or env var GOOGLE_SHEET_ID)
+        worksheet_name: Name of the worksheet to write to (default: "Sheet1")
+        
+    Returns:
+        Number of rows written (including header)
+    """
+    try:
+        # Get sheet ID from parameter or environment variable
+        if not sheet_id:
+            sheet_id = os.getenv("GOOGLE_SHEET_ID")
+        
+        if not sheet_id:
+            print("\n⚠ Warning: No Google Sheet ID provided. Skipping Google Sheets update.")
+            print("  Set GOOGLE_SHEET_ID environment variable or pass sheet_id parameter")
+            return 0
+        
+        client = get_google_sheets_client()
+    except ValueError as e:
+        print(f"\n⚠ Warning: {e}")
+        print("  Skipping Google Sheets update")
+        return 0
+    except Exception as e:
+        print(f"\n⚠ Warning: Error initializing Google Sheets client: {e}")
+        print("  Skipping Google Sheets update")
+        return 0
+    
+    if not players_dict:
+        print("\n⚠ Warning: No player data to write to Google Sheets")
+        return 0
+    
+    try:
+        # Open the spreadsheet
+        spreadsheet = client.open_by_key(sheet_id)
+        
+        # Get or create the worksheet
+        try:
+            worksheet = spreadsheet.worksheet(worksheet_name)
+        except gspread.exceptions.WorksheetNotFound:
+            print(f"  Creating new worksheet '{worksheet_name}'...")
+            worksheet = spreadsheet.add_worksheet(title=worksheet_name, rows=1000, cols=20)
+        
+        # Prepare header row
+        headers = [
+            "Team",
+            "Player",
+            "Goals",
+            "Assists",
+            "Ds",
+            "Turnovers",
+            "Captain Score",
+            "Handler Score",
+            "Cutter Score",
+            "Defender Score"
+        ]
+        
+        # Prepare data rows
+        rows = [headers]
+        
+        for team_name, players in players_dict.items():
+            for player_name, data in players.items():
+                scores = data.get("scores", {})
+                
+                row = [
+                    team_name,
+                    player_name,
+                    data.get("goals", 0),
+                    data.get("assists", 0),
+                    data.get("ds", 0),
+                    data.get("turnovers", 0),
+                    scores.get("captain_score", 0),
+                    scores.get("handler_score", 0),
+                    scores.get("cutter_score", 0),
+                    scores.get("defender_score", 0),
+                ]
+                rows.append(row)
+        
+        # Clear existing data and write new data
+        print(f"\nWriting {len(rows) - 1} player record(s) to Google Sheets...")
+        worksheet.clear()
+        worksheet.update('A1', rows, value_input_option='RAW')
+        
+        # Format header row (make it bold)
+        worksheet.format('A1:J1', {'textFormat': {'bold': True}})
+        
+        print(f"✓ Successfully wrote {len(rows)} row(s) (including header) to Google Sheets")
+        return len(rows)
+        
+    except Exception as e:
+        print(f"\n✗ Error updating Google Sheets: {e}")
+        import traceback
+        traceback.print_exc()
+        return 0
+
+
 def output_to_supabase(players_dict, tournament_name=TOURNAMENT_NAME):
     """
     Update Supabase live_scores table with players data.
@@ -424,12 +568,29 @@ def main():
         traceback.print_exc()
         records_count = 0
     
+    # Update Google Sheets
+    print(f"\n{'=' * 60}")
+    print("Updating Google Sheets with player stats and scores...")
+    print(f"{'=' * 60}")
+    
+    try:
+        sheets_rows = output_to_google_sheets(players_dict)
+    except Exception as e:
+        print(f"\n⚠ Warning: Error updating Google Sheets: {e}")
+        import traceback
+        traceback.print_exc()
+        sheets_rows = 0
+    
     print(f"\n{'=' * 60}")
     if players_dict and records_count > 0:
         print("✓ Script completed successfully!")
         print(f"  Updated {records_count} record(s) in Supabase for tournament '{TOURNAMENT_NAME}'")
+        if sheets_rows > 0:
+            print(f"  Updated {sheets_rows - 1} player record(s) in Google Sheets")
     elif players_dict:
         print("⚠ Script completed with warnings (no records uploaded to Supabase)")
+        if sheets_rows > 0:
+            print(f"  Updated {sheets_rows - 1} player record(s) in Google Sheets")
     else:
         print("⚠ Script completed with warnings (no Cowbell tournament data found)")
     print(f"{'=' * 60}")
