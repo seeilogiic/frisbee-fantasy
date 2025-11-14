@@ -16,10 +16,10 @@ For GitHub Actions:
 import os
 import sys
 import csv
-from datetime import datetime
 from pathlib import Path
 from io import StringIO
 import requests
+from supabase import create_client, Client
 # Playwright import kept for potential future use, but not currently needed
 # from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
@@ -45,13 +45,29 @@ ULTIANALYTICS_EXPORT_URLS = {
 # Tournament to filter for - search for anything containing "cow"
 TOURNAMENT_SEARCH_TERM = "cow"  # Will match: Cowbell, cowbell, Cowbell2025, alabamacowbell, etc.
 
-# Directories
-SCRIPT_DIR = Path(__file__).parent
+# Hardcoded tournament name for Supabase
+TOURNAMENT_NAME = "Cowbell"
 
-
-def ensure_directories():
-    """Ensure required directories exist (for output CSV)."""
-    SCRIPT_DIR.mkdir(parents=True, exist_ok=True)
+def get_supabase_client() -> Client:
+    """
+    Initialize and return Supabase client using environment variables.
+    
+    Requires:
+        SUPABASE_URL: Your Supabase project URL
+        SUPABASE_KEY: Your Supabase service role key (for full access)
+    
+    Returns:
+        Supabase client instance
+    """
+    supabase_url = os.getenv("SUPABASE_URL")
+    supabase_key = os.getenv("SUPABASE_KEY")
+    
+    if not supabase_url or not supabase_key:
+        raise ValueError(
+            "Missing Supabase credentials. Please set SUPABASE_URL and SUPABASE_KEY environment variables."
+        )
+    
+    return create_client(supabase_url, supabase_key)
 
 
 def download_csv_to_memory(export_url, team_name):
@@ -241,84 +257,98 @@ def filter_players_for_cowbell(players_dict):
     return filtered_dict
 
 
-def output_to_csv(players_dict, output_dir):
+def output_to_supabase(players_dict, tournament_name=TOURNAMENT_NAME):
     """
-    Output players data to CSV file with timestamp.
+    Update Supabase live_scores table with players data.
+    Replaces all existing data for the given tournament name.
     
     Args:
         players_dict: Dictionary of players data
-        output_dir: Directory to save output CSV
+        tournament_name: Tournament name to use (defaults to "Cowbell")
         
     Returns:
-        Path to output CSV file
+        Number of records updated/inserted
     """
-    timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
-    filename = f"Players_{timestamp}.csv"
-    filepath = output_dir / filename
+    try:
+        supabase = get_supabase_client()
+    except ValueError as e:
+        print(f"\nError: {e}")
+        return 0
     
-    fieldnames = [
-        "Team",
-        "Player",
-        "Tournaments",
-        "Games",
-        "Assists",
-        "Goals",
-        "Ds",
-        "Turnovers",
-        "Price",
-        "Games Played",
-        "Captain Score",
-        "Handler Score",
-        "Cutter Score",
-        "Defender Score",
-        "Possible injury flag",
-    ]
+    if not players_dict:
+        print(f"\n⚠ Warning: No player data to upload to Supabase")
+        return 0
     
-    with open(filepath, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
+    # Prepare data for Supabase
+    records = []
+    
+    for team_name, players in players_dict.items():
+        for player_name, data in players.items():
+            tournaments = data.get("tournamemnts", data.get("tournaments", {}))
+            
+            # Combine all tournaments into one string
+            tournament_strs = []
+            games_all = []
+            
+            for tournament_name_key, games in tournaments.items():
+                games_list = games if isinstance(games, list) else [str(games)]
+                games_all.extend(games_list)
+                tournament_strs.append(
+                    f"{tournament_name_key}: {', '.join(games_list)}"
+                )
+            
+            tournaments_combined = " | ".join(tournament_strs) if tournament_strs else None
+            games_combined = ", ".join(games_all) if games_all else None
+            
+            scores = data.get("scores", {})
+            questionable = data.get("questionable", False)
+            
+            record = {
+                "tournament_name": tournament_name,
+                "team": team_name,
+                "player": player_name,
+                "tournaments": tournaments_combined,
+                "games": games_combined,
+                "assists": data.get("assists", 0),
+                "goals": data.get("goals", 0),
+                "ds": data.get("ds", 0),
+                "turnovers": data.get("turnovers", 0),
+                "price": float(data.get("price", 0)),
+                "games_played": data.get("games_played", 0),
+                "captain_score": float(scores.get("captain_score", 0)),
+                "handler_score": float(scores.get("handler_score", 0)),
+                "cutter_score": float(scores.get("cutter_score", 0)),
+                "defender_score": float(scores.get("defender_score", 0)),
+                "questionable": questionable,
+            }
+            
+            records.append(record)
+    
+    if not records:
+        print(f"\n⚠ Warning: No records prepared for Supabase upload")
+        return 0
+    
+    try:
+        # First, delete all existing records for this tournament
+        print(f"\nDeleting existing records for tournament '{tournament_name}'...")
+        delete_response = supabase.table("live_scores").delete().eq("tournament_name", tournament_name).execute()
+        deleted_count = len(delete_response.data) if delete_response.data else 0
+        print(f"  Deleted {deleted_count} existing record(s)")
         
-        for team_name, players in players_dict.items():
-            for player_name, data in players.items():
-                tournaments = data.get("tournamemnts", data.get("tournaments", {}))
-                
-                # Combine all tournaments into one string
-                tournament_strs = []
-                games_all = []
-                
-                for tournament_name, games in tournaments.items():
-                    games_list = games if isinstance(games, list) else [str(games)]
-                    games_all.extend(games_list)
-                    tournament_strs.append(
-                        f"{tournament_name}: {', '.join(games_list)}"
-                    )
-                
-                tournaments_combined = " | ".join(tournament_strs)
-                games_combined = ", ".join(games_all)
-                
-                scores = data.get("scores", {})
-                questionable = data.get("questionable", False)
-                
-                writer.writerow({
-                    "Team": team_name,
-                    "Player": player_name,
-                    "Tournaments": tournaments_combined,
-                    "Games": games_combined,
-                    "Assists": data.get("assists", 0),
-                    "Goals": data.get("goals", 0),
-                    "Ds": data.get("ds", 0),
-                    "Turnovers": data.get("turnovers", 0),
-                    "Price": data.get("price", 0),
-                    "Games Played": data.get("games_played", 0),
-                    "Captain Score": scores.get("captain_score", 0),
-                    "Handler Score": scores.get("handler_score", 0),
-                    "Cutter Score": scores.get("cutter_score", 0),
-                    "Defender Score": scores.get("defender_score", 0),
-                    "Possible injury flag": "TRUE" if questionable else "FALSE",
-                })
-    
-    print(f"\nOutput CSV saved to: {filepath}")
-    return filepath
+        # Then, insert all new records
+        print(f"\nInserting {len(records)} new record(s) into Supabase...")
+        insert_response = supabase.table("live_scores").insert(records).execute()
+        
+        inserted_count = len(insert_response.data) if insert_response.data else 0
+        print(f"✓ Successfully inserted {inserted_count} record(s) into Supabase")
+        
+        return inserted_count
+        
+    except Exception as e:
+        print(f"\n✗ Error updating Supabase: {e}")
+        import traceback
+        traceback.print_exc()
+        return 0
 
 
 def main():
@@ -326,9 +356,6 @@ def main():
     print("=" * 60)
     print("UltiAnalytics Data Pulling Script")
     print("=" * 60)
-    
-    # Ensure directories exist (for output CSV only)
-    ensure_directories()
     
     # Check if URLs are configured
     if not ULTIANALYTICS_EXPORT_URLS:
@@ -370,7 +397,7 @@ def main():
     
     if not players_dict:
         print(f"\n⚠ Warning: No players found with tournaments containing '{TOURNAMENT_SEARCH_TERM}'")
-        print(f"  The output CSV will be empty or contain only headers")
+        print(f"  No data will be uploaded to Supabase")
     
     # Calculate scores and prices
     if players_dict:
@@ -384,29 +411,27 @@ def main():
     else:
         print("\nSkipping score/price calculations (no players found)")
     
-    # Output to CSV
+    # Update Supabase
     print(f"\n{'=' * 60}")
-    print("Generating output CSV...")
+    print(f"Updating Supabase live_scores table for tournament '{TOURNAMENT_NAME}'...")
     print(f"{'=' * 60}")
     
     try:
-        output_file = output_to_csv(players_dict, SCRIPT_DIR)
+        records_count = output_to_supabase(players_dict, TOURNAMENT_NAME)
     except Exception as e:
-        print(f"\n⚠ Warning: Error creating CSV file: {e}")
-        print("  Script will complete without creating output file")
-        output_file = None
+        print(f"\n⚠ Warning: Error updating Supabase: {e}")
+        import traceback
+        traceback.print_exc()
+        records_count = 0
     
     print(f"\n{'=' * 60}")
-    if players_dict:
+    if players_dict and records_count > 0:
         print("✓ Script completed successfully!")
-        if output_file:
-            print(f"Output file: {output_file}")
+        print(f"  Updated {records_count} record(s) in Supabase for tournament '{TOURNAMENT_NAME}'")
+    elif players_dict:
+        print("⚠ Script completed with warnings (no records uploaded to Supabase)")
     else:
         print("⚠ Script completed with warnings (no Cowbell tournament data found)")
-        if output_file:
-            print(f"Output file: {output_file} (empty or headers only)")
-        else:
-            print("No output file created")
     print(f"{'=' * 60}")
     
     # Always return 0 (success) - even if no data found, this is not an error condition
