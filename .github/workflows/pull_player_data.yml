@@ -10,7 +10,7 @@ on:
     - cron: '*/5 14-23 14,15,16 11 *'
     # Entry 2: 00:00-03:00 UTC (6 PM - 9 PM CST previous day) on Nov 15, 16, 17
     # This covers 6 PM - 9 PM CST on Nov 14, 15, 16
-    - cron: '*/5 0-5 15,16,17 11 *'
+    - cron: '*/5 0-5 15,16,17 11 *' 
   workflow_dispatch:  # Manual trigger - run from GitHub Actions tab
 
 jobs:
