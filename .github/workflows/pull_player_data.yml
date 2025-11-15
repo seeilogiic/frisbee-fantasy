@@ -8,8 +8,6 @@ on:
     # Part 2: Next UTC day (00:00–05:00 UTC)
     - cron: "*/5 0-5 15,16,17 11 *"
 
-    - cron: "*/2 * * * *"
-
   workflow_dispatch:  # Manual trigger - run from GitHub Actions tab
 
 jobs:
