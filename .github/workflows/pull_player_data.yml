@@ -2,13 +2,15 @@ name: Pull Player Data
 
 on:
   schedule:
-    # Part 1: Same UTC day (14:00–23:59 UTC)
+    # Run every 5 minutes from 8 AM to 9 PM US Central Time (CST = UTC-6)
+    # November 14th, 15th, and 16th
+    # 8 AM CST = 14:00 UTC, 9 PM CST = 03:00 UTC (next day)
+    # Entry 1: 14:00-23:55 UTC (8 AM - 5:55 PM CST) on Nov 14, 15, 16
     - cron: "*/5 14-23 14,15,16 11 *"
-
-    # Part 2: Next UTC day (00:00–05:00 UTC)
+    # Entry 2: 00:00-03:00 UTC (6 PM - 9 PM CST previous day) on Nov 15, 16, 17
+    # This covers 6 PM - 9 PM CST on Nov 14, 15, 16
     - cron: "*/5 0-5 15,16,17 11 *"
-
-  workflow_dispatch:  # Manual trigger - run from GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   pull-and-process-data:
@@ -16,10 +18,10 @@ jobs:
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
     
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v4
       with:
         python-version: '3.11'
         cache: 'pip'
@@ -39,5 +41,3 @@ jobs:
         GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
         GOOGLE_SHEET_WORKSHEET_NAME: ${{ secrets.GOOGLE_SHEET_WORKSHEET_NAME }}
       # Note: SUPABASE_URL and SUPABASE_KEY are optional - script will skip Supabase updates if not provided
-
-# Schedule refresh
