@@ -194,17 +194,16 @@ def process_csv_data_in_memory(csv_data_dict):
                 csv_content, players_dict, team_name
             )
             
-            # Collect tournaments and filter for Cowbell only (case-insensitive)
+            # Collect tournaments and filter for tournaments containing "cow" (case-insensitive)
             team_tournaments = collect_tournaments_from_content(csv_content)
             
-            # Find tournament that contains "cow" (case-insensitive)
-            matching_tournament = None
+            # Find ALL tournaments that contain "cow" (case-insensitive)
+            matching_tournaments = []
             for tournament in team_tournaments:
                 if TOURNAMENT_SEARCH_TERM.lower() in tournament.lower():
-                    matching_tournament = tournament
-                    break
+                    matching_tournaments.append(tournament)
             
-            if not matching_tournament:
+            if not matching_tournaments:
                 print(f"  Warning: No tournament containing '{TOURNAMENT_SEARCH_TERM}' found for {team_name}")
                 print(f"  Available tournaments: {', '.join(team_tournaments)}")
                 # Remove team from players_dict if it was added
@@ -213,9 +212,12 @@ def process_csv_data_in_memory(csv_data_dict):
                 # Skip this team - no Cowbell data
                 continue
             
-            selected_tournaments = [matching_tournament]
+            print(f"  Found {len(matching_tournaments)} tournament(s) containing '{TOURNAMENT_SEARCH_TERM}': {', '.join(matching_tournaments)}")
             
-            # Filter CSV data to only include Cowbell tournament
+            selected_tournaments = matching_tournaments
+            
+            # Filter CSV data to include all tournaments containing "cow"
+            # This will combine stats from multiple tournaments (e.g., "cowbell" and "cowbell classic")
             filtered_csv = filter_csv_by_tournaments(whole_csv, selected_tournaments)
             
             if not filtered_csv:

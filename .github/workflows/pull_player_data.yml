@@ -1,15 +1,6 @@
 name: Pull Player Data
 
 on:
-  schedule:
-    # Run every 5 minutes from 8 AM to 9 PM US Central Time (CST = UTC-6)
-    # November 14th, 15th, and 16th
-    # 8 AM CST = 14:00 UTC, 9 PM CST = 03:00 UTC (next day)
-    # Entry 1: 14:00-23:55 UTC (8 AM - 5:55 PM CST) on Nov 14, 15, 16
-    - cron: "*/15 14-23 14,15,16 11 *"
-    # Entry 2: 00:00-03:00 UTC (6 PM - 9 PM CST previous day) on Nov 15, 16, 17
-    # This covers 6 PM - 9 PM CST on Nov 14, 15, 16
-    - cron: "*/15 0-5 14,15,16,17 11 *"
   workflow_dispatch:
 
 jobs:
